@@ -1,0 +1,1172 @@
+[
+  {
+    "id": 0,
+    "card_name": "The Fool",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Fool invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Fool reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/00_Fool.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_00_Fool.jpg"
+  },
+  {
+    "id": 1,
+    "card_name": "The Magician",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Magician invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Magician reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/01_Magician.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_01_Magician.jpg"
+  },
+  {
+    "id": 2,
+    "card_name": "The High Priestess",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The High Priestess invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The High Priestess reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/02_High_Priestess.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_02_High_Priestess.jpg"
+  },
+  {
+    "id": 3,
+    "card_name": "The Empress",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Empress invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Empress reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/03_Empress.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_03_Empress.jpg"
+  },
+  {
+    "id": 4,
+    "card_name": "The Emperor",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Emperor invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Emperor reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/04_Emperor.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_04_Emperor.jpg"
+  },
+  {
+    "id": 5,
+    "card_name": "The Hierophant",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Hierophant invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Hierophant reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/05_Hierophant.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_05_Hierophant.jpg"
+  },
+  {
+    "id": 6,
+    "card_name": "The Lovers",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Lovers invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Lovers reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/06_Lovers.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_06_Lovers.jpg"
+  },
+  {
+    "id": 7,
+    "card_name": "The Chariot",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Chariot invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Chariot reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/07_Chariot.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_07_Chariot.jpg"
+  },
+  {
+    "id": 8,
+    "card_name": "Strength",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "Strength invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "Strength reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/08_Strength.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_08_Strength.jpg"
+  },
+  {
+    "id": 9,
+    "card_name": "The Hermit",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Hermit invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Hermit reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/09_Hermit.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_09_Hermit.jpg"
+  },
+  {
+    "id": 10,
+    "card_name": "Wheel of Fortune",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "Wheel of Fortune invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "Wheel of Fortune reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/10_Wheel_of_Fortune.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_10_Wheel_of_Fortune.jpg"
+  },
+  {
+    "id": 11,
+    "card_name": "Justice",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "Justice invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "Justice reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/11_Justice.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_11_Justice.jpg"
+  },
+  {
+    "id": 12,
+    "card_name": "The Hanged Man",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Hanged Man invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Hanged Man reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/12_Hanged_Man.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_12_Hanged_Man.jpg"
+  },
+  {
+    "id": 13,
+    "card_name": "Death",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "Death invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "Death reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/13_Death.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_13_Death.jpg"
+  },
+  {
+    "id": 14,
+    "card_name": "Temperance",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "Temperance invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "Temperance reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/14_Temperance.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_14_Temperance.jpg"
+  },
+  {
+    "id": 15,
+    "card_name": "The Devil",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Devil invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Devil reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/15_Devil.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_15_Devil.jpg"
+  },
+  {
+    "id": 16,
+    "card_name": "The Tower",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Tower invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Tower reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/16_Tower.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_16_Tower.jpg"
+  },
+  {
+    "id": 17,
+    "card_name": "The Star",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Star invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Star reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/17_Star.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_17_Star.jpg"
+  },
+  {
+    "id": 18,
+    "card_name": "The Moon",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Moon invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Moon reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/18_Moon.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_18_Moon.jpg"
+  },
+  {
+    "id": 19,
+    "card_name": "The Sun",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The Sun invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The Sun reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/19_Sun.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_19_Sun.jpg"
+  },
+  {
+    "id": 20,
+    "card_name": "Judgement",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "Judgement invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "Judgement reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/20_Judgement.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_20_Judgement.jpg"
+  },
+  {
+    "id": 21,
+    "card_name": "The World",
+    "arcana_type": "Major",
+    "suit": null,
+    "upright_meaning": "The World invites openness, awareness, and a clear response to the present moment.",
+    "reversed_meaning": "The World reversed asks you to slow down, reconsider assumptions, and restore inner balance.",
+    "keywords": [
+      "reflection",
+      "intuition",
+      "choice"
+    ],
+    "image_path": "assets/cards/major/21_World.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_21_World.jpg"
+  },
+  {
+    "id": 22,
+    "card_name": "Ace of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Ace of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Ace of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "ace",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands01.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands01.jpg"
+  },
+  {
+    "id": 23,
+    "card_name": "Two of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Two of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Two of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "two",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands02.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands02.jpg"
+  },
+  {
+    "id": 24,
+    "card_name": "Three of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Three of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Three of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "three",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands03.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands03.jpg"
+  },
+  {
+    "id": 25,
+    "card_name": "Four of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Four of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Four of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "four",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands04.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands04.jpg"
+  },
+  {
+    "id": 26,
+    "card_name": "Five of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Five of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Five of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "five",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands05.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands05.jpg"
+  },
+  {
+    "id": 27,
+    "card_name": "Six of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Six of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Six of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "six",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands06.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands06.jpg"
+  },
+  {
+    "id": 28,
+    "card_name": "Seven of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Seven of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Seven of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "seven",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands07.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands07.jpg"
+  },
+  {
+    "id": 29,
+    "card_name": "Eight of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Eight of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Eight of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "eight",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands08.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands08.jpg"
+  },
+  {
+    "id": 30,
+    "card_name": "Nine of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Nine of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Nine of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "nine",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands09.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands09.jpg"
+  },
+  {
+    "id": 31,
+    "card_name": "Ten of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Ten of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Ten of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "ten",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands10.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands10.jpg"
+  },
+  {
+    "id": 32,
+    "card_name": "Page of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Page of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Page of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "page",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands11.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands11.jpg"
+  },
+  {
+    "id": 33,
+    "card_name": "Knight of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Knight of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Knight of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "knight",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands12.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands12.jpg"
+  },
+  {
+    "id": 34,
+    "card_name": "Queen of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "Queen of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Queen of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "queen",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands13.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands13.jpg"
+  },
+  {
+    "id": 35,
+    "card_name": "King of Wands",
+    "arcana_type": "Minor",
+    "suit": "Wands",
+    "upright_meaning": "King of Wands highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "King of Wands reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "wands",
+      "king",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Wands14.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Wands14.jpg"
+  },
+  {
+    "id": 36,
+    "card_name": "Ace of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Ace of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Ace of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "ace",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups01.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups01.jpg"
+  },
+  {
+    "id": 37,
+    "card_name": "Two of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Two of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Two of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "two",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups02.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups02.jpg"
+  },
+  {
+    "id": 38,
+    "card_name": "Three of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Three of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Three of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "three",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups03.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups03.jpg"
+  },
+  {
+    "id": 39,
+    "card_name": "Four of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Four of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Four of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "four",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups04.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups04.jpg"
+  },
+  {
+    "id": 40,
+    "card_name": "Five of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Five of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Five of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "five",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups05.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups05.jpg"
+  },
+  {
+    "id": 41,
+    "card_name": "Six of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Six of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Six of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "six",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups06.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups06.jpg"
+  },
+  {
+    "id": 42,
+    "card_name": "Seven of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Seven of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Seven of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "seven",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups07.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups07.jpg"
+  },
+  {
+    "id": 43,
+    "card_name": "Eight of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Eight of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Eight of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "eight",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups08.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups08.jpg"
+  },
+  {
+    "id": 44,
+    "card_name": "Nine of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Nine of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Nine of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "nine",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups09.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups09.jpg"
+  },
+  {
+    "id": 45,
+    "card_name": "Ten of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Ten of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Ten of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "ten",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups10.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups10.jpg"
+  },
+  {
+    "id": 46,
+    "card_name": "Page of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Page of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Page of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "page",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups11.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups11.jpg"
+  },
+  {
+    "id": 47,
+    "card_name": "Knight of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Knight of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Knight of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "knight",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups12.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups12.jpg"
+  },
+  {
+    "id": 48,
+    "card_name": "Queen of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "Queen of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Queen of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "queen",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups13.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups13.jpg"
+  },
+  {
+    "id": 49,
+    "card_name": "King of Cups",
+    "arcana_type": "Minor",
+    "suit": "Cups",
+    "upright_meaning": "King of Cups highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "King of Cups reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "cups",
+      "king",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Cups14.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Cups14.jpg"
+  },
+  {
+    "id": 50,
+    "card_name": "Ace of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Ace of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Ace of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "ace",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords01.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords01.jpg"
+  },
+  {
+    "id": 51,
+    "card_name": "Two of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Two of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Two of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "two",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords02.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords02.jpg"
+  },
+  {
+    "id": 52,
+    "card_name": "Three of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Three of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Three of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "three",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords03.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords03.jpg"
+  },
+  {
+    "id": 53,
+    "card_name": "Four of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Four of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Four of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "four",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords04.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords04.jpg"
+  },
+  {
+    "id": 54,
+    "card_name": "Five of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Five of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Five of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "five",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords05.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords05.jpg"
+  },
+  {
+    "id": 55,
+    "card_name": "Six of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Six of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Six of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "six",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords06.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords06.jpg"
+  },
+  {
+    "id": 56,
+    "card_name": "Seven of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Seven of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Seven of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "seven",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords07.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords07.jpg"
+  },
+  {
+    "id": 57,
+    "card_name": "Eight of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Eight of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Eight of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "eight",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords08.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords08.jpg"
+  },
+  {
+    "id": 58,
+    "card_name": "Nine of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Nine of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Nine of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "nine",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords09.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords09.jpg"
+  },
+  {
+    "id": 59,
+    "card_name": "Ten of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Ten of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Ten of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "ten",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords10.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords10.jpg"
+  },
+  {
+    "id": 60,
+    "card_name": "Page of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Page of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Page of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "page",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords11.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords11.jpg"
+  },
+  {
+    "id": 61,
+    "card_name": "Knight of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Knight of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Knight of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "knight",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords12.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords12.jpg"
+  },
+  {
+    "id": 62,
+    "card_name": "Queen of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "Queen of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Queen of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "queen",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords13.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords13.jpg"
+  },
+  {
+    "id": 63,
+    "card_name": "King of Swords",
+    "arcana_type": "Minor",
+    "suit": "Swords",
+    "upright_meaning": "King of Swords highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "King of Swords reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "swords",
+      "king",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Swords14.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Swords14.jpg"
+  },
+  {
+    "id": 64,
+    "card_name": "Ace of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Ace of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Ace of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "ace",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents01.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents01.jpg"
+  },
+  {
+    "id": 65,
+    "card_name": "Two of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Two of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Two of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "two",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents02.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents02.jpg"
+  },
+  {
+    "id": 66,
+    "card_name": "Three of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Three of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Three of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "three",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents03.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents03.jpg"
+  },
+  {
+    "id": 67,
+    "card_name": "Four of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Four of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Four of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "four",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents04.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents04.jpg"
+  },
+  {
+    "id": 68,
+    "card_name": "Five of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Five of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Five of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "five",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents05.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents05.jpg"
+  },
+  {
+    "id": 69,
+    "card_name": "Six of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Six of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Six of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "six",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents06.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents06.jpg"
+  },
+  {
+    "id": 70,
+    "card_name": "Seven of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Seven of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Seven of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "seven",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents07.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents07.jpg"
+  },
+  {
+    "id": 71,
+    "card_name": "Eight of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Eight of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Eight of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "eight",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents08.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents08.jpg"
+  },
+  {
+    "id": 72,
+    "card_name": "Nine of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Nine of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Nine of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "nine",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents09.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents09.jpg"
+  },
+  {
+    "id": 73,
+    "card_name": "Ten of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Ten of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Ten of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "ten",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents10.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents10.jpg"
+  },
+  {
+    "id": 74,
+    "card_name": "Page of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Page of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Page of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "page",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents11.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents11.jpg"
+  },
+  {
+    "id": 75,
+    "card_name": "Knight of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Knight of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Knight of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "knight",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents12.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents12.jpg"
+  },
+  {
+    "id": 76,
+    "card_name": "Queen of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "Queen of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "Queen of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "queen",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents13.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents13.jpg"
+  },
+  {
+    "id": 77,
+    "card_name": "King of Pentacles",
+    "arcana_type": "Minor",
+    "suit": "Pentacles",
+    "upright_meaning": "King of Pentacles highlights practical movement, emotional clarity, and the next grounded step.",
+    "reversed_meaning": "King of Pentacles reversed points to blocked momentum, scattered attention, or a need to rebalance.",
+    "keywords": [
+      "pentacles",
+      "king",
+      "guidance"
+    ],
+    "image_path": "assets/cards/minor/Pents14.jpg",
+    "thumbnail_path": "assets/cards/thumbnails/thumb_Pents14.jpg"
+  }
+]

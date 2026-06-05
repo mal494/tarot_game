@@ -1,0 +1,4 @@
+ursina==7.0.0
+panda3d==1.10.16
+pillow==11.3.0
+python-dateutil==2.9.0.post0
