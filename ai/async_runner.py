@@ -9,7 +9,7 @@ try:
     # fallback so tests can run without the engine installed.
     from ursina import Entity, invoke  # type: ignore
 except ImportError:  # pragma: no cover - exercised indirectly
-    class Entity:  # type: ignore
+    class Entity(object):  # type: ignore
         def __init__(self, *args, **kwargs) -> None:
             pass
 
