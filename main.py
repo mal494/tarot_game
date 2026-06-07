@@ -1,6 +1,6 @@
 # main.py
 
-from ursina import Ursina, color, window
+import ursina # type: ignore
 
 from scenes.scene_manager import SceneManager, switch_scene
 
@@ -9,15 +9,15 @@ def main():
     # ---------------------------------------------------------
     # Initialize Ursina
     # ---------------------------------------------------------
-    app = Ursina(
+    app = ursina.Ursina(
         title="Arcana Path",
         borderless=False,
         fullscreen=False,
         vsync=True
     )
 
-    window.color = color.rgb(15, 10, 25)
-    window.exit_button.visible = False
+    ursina.window.ursina.color = ursina.color.rgb(15, 10, 25)
+    ursina.window.exit_button.visible = False
 
     # ---------------------------------------------------------
     # Initialize Scene Manager

@@ -2,7 +2,7 @@
 
 from pathlib import Path
 
-from ursina import * # pyright: ignore[reportWildcardImportFromLibrary]
+from ursina import Audio, Entity, Text, camera, color, invoke # type: ignore
 from core.game_state import GameState
 
 
@@ -117,6 +117,6 @@ class UIButton(Entity):
         # Trigger callback
         if self._click_callback:
             self._click_callback()
- # Play sound
+        # Play sound
         if self.sound_path and Path(self.sound_path).exists():
-            Audio(self.sound_path, autoplay=True, volume=GameState().settings.volume)
+            Audio(self.sound_path, autoplay=True, volume=int(GameState().settings.volume))

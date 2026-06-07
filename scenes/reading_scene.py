@@ -1,6 +1,6 @@
 # scenes/reading_scene.py
 
-from ursina import *
+from ursina import Entity, Text, camera, color, destroy, invoke
 from core.game_state import GameState
 from core.tarot_engine import TarotEngine, SpreadType
 from core.card_data_loader import CardDataLoader

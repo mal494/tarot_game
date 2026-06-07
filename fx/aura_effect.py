@@ -1,8 +1,9 @@
 # fx/aura_effect.py
 
-from ursina import * # pyright: ignore[reportWildcardImportFromLibrary]
 import math
 import random
+
+from ursina import Entity, color, curve, invoke, time
 
 
 class AuraEffect(Entity):

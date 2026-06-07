@@ -1,6 +1,8 @@
 # scenes/menu_scene.py
 
-from ursina import *
+import os
+
+from ursina import Entity, Text, camera, color, destroy
 from components.ui_button import UIButton
 from fx.particle_fx import FloatingParticles
 from core.game_state import GameState

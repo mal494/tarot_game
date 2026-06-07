@@ -1,6 +1,6 @@
 # components/text_input.py
 
-from ursina import *
+from ursina import Entity, Text, camera, color, invoke
 from core.game_state import GameState
 
 

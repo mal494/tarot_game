@@ -3,7 +3,7 @@
 from importlib import import_module
 import traceback
 
-from ursina import * # type: ignore
+from ursina import Entity, camera, color, curve, destroy, invoke
 
 class SceneManager:
     """

@@ -1,4 +1,4 @@
-from ursina import *
+from ursina import Entity, camera, color, curve, destroy, invoke
 
 from components.ui_button import UIButton
 from core.game_state import GameState

@@ -1,4 +1,4 @@
-from ursina import *
+from ursina import Entity, Slider, Text, camera, color, destroy
 from core.game_state import GameState
 from journal.journal_manager import JournalManager
 from components.ui_button import UIButton

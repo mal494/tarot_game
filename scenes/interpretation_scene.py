@@ -1,4 +1,4 @@
-from ursina import *
+from ursina import Entity, Text, camera, color, destroy, invoke
 
 from ai.async_runner import AsyncRunner
 from ai.interpreter import AIInterpreter

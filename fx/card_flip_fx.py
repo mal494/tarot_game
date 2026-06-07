@@ -2,7 +2,7 @@
 
 from pathlib import Path
 
-from ursina import *
+from ursina import Audio, Entity, color, curve, invoke # type: ignore
 from core.game_state import GameState
 from fx.aura_effect import AuraEffect
 from fx.particle_fx import SparkleBurst

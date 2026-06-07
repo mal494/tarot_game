@@ -1,7 +1,8 @@
 # fx/lighting_fx.py
 
-from ursina import *
 import math
+
+from ursina import Entity, camera, color, curve, destroy, invoke, time
 
 
 class LightingFX(Entity):

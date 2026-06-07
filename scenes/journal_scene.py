@@ -1,7 +1,8 @@
 ﻿# scenes/journal_scene.py
 
-from ursina import *
+from ursina import Entity, Text, camera, color, destroy
 from core.game_state import GameState
+from core.utils import clamp
 from journal.journal_manager import JournalManager, JournalCorruptError
 from components.ui_button import UIButton
 from components.ui_panel import UIPanel

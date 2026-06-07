@@ -1,8 +1,9 @@
 # fx/ritual_fx.py
 
-from ursina import *
 import math
 import random
+
+from ursina import Entity, camera, color, curve, destroy, invoke, time
 
 from fx.particle_fx import FloatingParticles, SparkleBurst
 from fx.aura_effect import AuraEffect

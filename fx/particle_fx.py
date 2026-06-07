@@ -1,6 +1,7 @@
-from ursina import *
 import math
 import random
+
+from ursina import Entity, color, curve, destroy, time
 
 
 class FloatingParticles(Entity):

@@ -46,8 +46,8 @@ def check_paths():
 
 def check_omnara_sdk():
     try:
-        import omnara
-        from omnara import Omnara, KnowledgeModule, Agent, EmbeddingConfig
+        import omnara # type: ignore
+        from omnara import Omnara, KnowledgeModule, Agent, EmbeddingConfig # type: ignore
 
         REPORT["omnara_sdk"] = {
             "installed": True,
@@ -98,11 +98,11 @@ def check_tarot_deck():
 
 def test_omnara_runtime():
     try:
-        import omnara
+        import omnara # type: ignore
 
-        omnara_instance = omnara.Omnara(
+        omnara_instance = omnara.Runtime(
             workspace="diagnostic_test_workspace",
-            embedding=EmbeddingConfig(
+            embedding=omnara.Embedding(
                 model="omnara-embed-large",
                 dimensions=1536
             )

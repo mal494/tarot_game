@@ -9,7 +9,10 @@ the Arcana Path interpretation agent for use in-game.
 import json
 from pathlib import Path
 
-import omnara as omnara_
+try:
+    import omnara as omnara_ # type: ignore
+except ImportError:
+    omnara_ = None
 
 
 # ---------------------------------------------------------
@@ -37,11 +40,15 @@ def load_tarot_deck():
 def init_omnara_runtime():
     print("🔮 Omnara Runtime: Initializing...")
 
+    if omnara_ is None:
+        print("⚠️ Omnara SDK not found. Running in offline mode.")
+        return None, None
+
     deck_data = load_tarot_deck()
 
-    omnara = omnara_.Omnara(
+    omnara = omnara_.Runtime(
         workspace="arcana_path_runtime",
-        embedding=omnara_.EmbeddingConfig(
+        embedding=omnara_.Embedding(
             model="omnara-embed-large",
             dimensions=1536
         )
@@ -89,5 +96,7 @@ def interpret_spread(prompt: str):
     """
     Called by the game when the user draws cards.
     """
+    if not ARCANA_AGENT:
+        return "Interpretation unavailable: Omnara SDK not initialized."
     response = ARCANA_AGENT.run(prompt)
     return response
