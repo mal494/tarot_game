@@ -8,8 +8,8 @@ try:
     # test suite only relies on AsyncRunnerCore. Provide a lightweight
     # fallback so tests can run without the engine installed.
     from ursina import Entity, invoke  # type: ignore
-except ImportError:  # pragma: no cover - exercised indirectly
-    class Entity(object):  # type: ignore
+except (ImportError, RuntimeError):  # pragma: no cover - exercised indirectly
+    class Entity:  # type: ignore
         def __init__(self, *args, **kwargs) -> None:
             pass
 

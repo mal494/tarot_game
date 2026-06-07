@@ -68,11 +68,11 @@ class LightingFX(Entity):
     # ---------------------------------------------------------
 
     def update(self):
-        self._t += time.dt * self.pulse_speed
+        self._t += time.dt * self.pulse_speed # pyright: ignore[reportAttributeAccessIssue]
 
         # Breathing pulse
         pulse = (math.sin(self._t) + 1) * 0.5
-        self.pulse.scale = 0.6 + pulse * 0.25
+        self.pulse.scale = 0.6 + pulse * 0.25 # pyright: ignore[reportAttributeAccessIssue]
         self.pulse.color = color.rgba(
             255,
             200,
@@ -88,7 +88,7 @@ class LightingFX(Entity):
         """
         Moves the spotlight to a world position and fades it in.
         """
-        screen_pos = camera.world_to_screen_point(world_pos)
+        screen_pos = camera.world_to_screen_point(world_pos) # pyright: ignore[reportAttributeAccessIssue]
         self.spotlight.position = (screen_pos[0], screen_pos[1], 6)
 
         self.spotlight.animate_color(
@@ -141,7 +141,7 @@ class LightingFX(Entity):
         """
         flash = Entity(
             parent=camera.ui,
-            model="quad",
+            model="quad", # pyright: ignore[reportAttributeAccessIssue]
             color=color.rgba(255, 255, 255, 0),
             scale=(2, 2),
             z=9

@@ -113,10 +113,10 @@ class UIButton(Entity):
         self.animate_scale(self.scale * 0.95, duration=0.07)
         invoke(self.animate_scale, self.scale, delay=0.07, duration=0.07)
 
-        # Play sound
-        if self.sound_path and Path(self.sound_path).exists():
-            Audio(self.sound_path, autoplay=True, volume=GameState().settings.volume)
-
+       
         # Trigger callback
         if self._click_callback:
             self._click_callback()
+ # Play sound
+        if self.sound_path and Path(self.sound_path).exists():
+            Audio(self.sound_path, autoplay=True, volume=GameState().settings.volume)

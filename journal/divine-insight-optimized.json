@@ -1,0 +1,3220 @@
+{
+    "deck_metadata": {
+        "name": "Divine Insight Dictionary",
+        "version": "2.0-optimized",
+        "engine_compatibility": "OmniSolve-Core",
+        "total_cards": 78
+    },
+    "taxonomy": {
+        "life_domains": [
+            "Career",
+            "Personal Growth",
+            "Travel",
+            "Education",
+            "Finance",
+            "Spirituality",
+            "Mental Health",
+            "Family",
+            "Love",
+            "Relationships",
+            "Legal",
+            "Home",
+            "Community",
+            "Health",
+            "Life Cycles"
+        ]
+    },
+    "cards": [
+        {
+            "key": "major-00",
+            "id": 1,
+            "name": "The Fool",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Air",
+            "astrology": "Uranus",
+            "life_domains": [],
+            "tags": [
+                "travel",
+                "new_project",
+                "risk",
+                "youth",
+                "change",
+                "new_city"
+            ],
+            "description": "A leap of faith into the unknown.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Beginnings",
+                        "Spontaneity",
+                        "Faith"
+                    ],
+                    "description": "A leap of faith into the unknown."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Recklessness",
+                        "Naivety",
+                        "Risk"
+                    ],
+                    "description": "Acting without a safety net."
+                }
+            },
+            "positional_weighting": {
+                "past": "Historically, you took a significant leap of faith with a beginner's mindset, setting the foundation for the present.",
+                "obstacle": "Your obstacle is recklessness or naivety; you are ignoring crucial details or acting impulsively.",
+                "present": "The energy of The Fool is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or a internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The Fool will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The Fool suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The Fool. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-01",
+            "id": 2,
+            "name": "The Magician",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Air",
+            "astrology": "Mercury",
+            "life_domains": [],
+            "tags": [
+                "skill",
+                "manifestation",
+                "action",
+                "creation"
+            ],
+            "description": "The alignment of will and tools.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Manifestation",
+                        "Power",
+                        "Resourcefulness"
+                    ],
+                    "description": "The alignment of will and tools."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Manipulation",
+                        "Poor Planning",
+                        "Trickery"
+                    ],
+                    "description": "Misuse of influence."
+                }
+            },
+            "positional_weighting": {
+                "past": "You actively manifested a goal using the resources and skills available to you at the time.",
+                "obstacle": "A lack of focus, poor planning, or manipulation is blocking your ability to translate ideas into reality.",
+                "present": "The energy of The Magician is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or a internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The Magician will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The Magician suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The Magician. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-02",
+            "id": 3,
+            "name": "The High Priestess",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Water",
+            "astrology": "Moon",
+            "life_domains": [],
+            "tags": [
+                "spirituality",
+                "secrets",
+                "subconscious",
+                "dreams"
+            ],
+            "description": "Silence reveals what is hidden.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Intuition",
+                        "Mystery",
+                        "Inner Voice"
+                    ],
+                    "description": "Silence reveals what is hidden."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Secrets",
+                        "Disconnection",
+                        "Withdrawal"
+                    ],
+                    "description": "Ignoring the inner voice."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of deep introspection and reliance on your intuition shaped your past trajectory.",
+                "obstacle": "You are ignoring your gut feelings or being kept in the dark by hidden information.",
+                "present": "The energy of The High Priestess is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or a internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The High Priestess will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The High Priestess suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The High Priestess. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-03",
+            "id": 4,
+            "name": "The Empress",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Earth",
+            "astrology": "Venus",
+            "life_domains": [],
+            "tags": [
+                "nature",
+                "fertility",
+                "abundance",
+                "family"
+            ],
+            "description": "The peak of creative fertility.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Abundance",
+                        "Nurturing",
+                        "Creation"
+                    ],
+                    "description": "The peak of creative fertility."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Blockage",
+                        "Dependence",
+                        "Smothering"
+                    ],
+                    "description": "Lack of growth or over-reliance."
+                }
+            },
+            "positional_weighting": {
+                "past": "A time of great abundance, nurturing, and creative growth established your current resources.",
+                "obstacle": "Creative blocks, financial insecurity, or smothering relationships are halting your progress.",
+                "present": "The energy of The Empress is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or a internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The Empress will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The Empress suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The Empress. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-04",
+            "id": 5,
+            "name": "The Emperor",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Fire",
+            "astrology": "Aries",
+            "life_domains": [],
+            "tags": [
+                "government",
+                "business",
+                "authority",
+                "structure"
+            ],
+            "description": "Implementation of order.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Structure",
+                        "Establishment",
+                        "Control"
+                    ],
+                    "description": "Implementation of order."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Domination",
+                        "Inflexibility",
+                        "Chaos"
+                    ],
+                    "description": "Abuse of power."
+                }
+            },
+            "positional_weighting": {
+                "past": "Discipline, rules, and established structures provided the framework for your past actions.",
+                "obstacle": "Rigidity, excessive control, or a lack of necessary discipline is creating a bottleneck.",
+                "present": "The energy of The Emperor is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or a internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The Emperor will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The Emperor suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The Emperor. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-05",
+            "id": 6,
+            "name": "The Hierophant",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Earth",
+            "astrology": "Taurus",
+            "life_domains": [],
+            "tags": [
+                "religion",
+                "mentorship",
+                "tradition",
+                "education"
+            ],
+            "description": "Seeking counsel in established systems.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Tradition",
+                        "Beliefs",
+                        "Conformity"
+                    ],
+                    "description": "Seeking counsel in established systems."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Rebellion",
+                        "Freedom",
+                        "New Paradigms"
+                    ],
+                    "description": "Breaking from the status quo."
+                }
+            },
+            "positional_weighting": {
+                "past": "Adherence to traditional beliefs, formal education, or a mentor guided your previous path.",
+                "obstacle": "Blind conformity or restrictive traditional structures are preventing necessary innovation.",
+                "present": "The energy of The Hierophant is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or a internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The Hierophant will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The Hierophant suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The Hierophant. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-06",
+            "id": 7,
+            "name": "The Lovers",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Air",
+            "astrology": "Gemini",
+            "life_domains": [],
+            "tags": [
+                "romance",
+                "partnership",
+                "alignment",
+                "choices"
+            ],
+            "description": "A choice based on deep core values.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Harmony",
+                        "Values",
+                        "Partnership"
+                    ],
+                    "description": "A choice based on deep core values."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Disharmony",
+                        "Imbalance",
+                        "Misalignment"
+                    ],
+                    "description": "Conflict in partnership."
+                }
+            },
+            "positional_weighting": {
+                "past": "A significant relationship or a major crossroads requiring a values-based choice defined your past.",
+                "obstacle": "Disharmony in a relationship or a misalignment of your core values is causing internal friction.",
+                "present": "The energy of The Lovers is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or a internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The Lovers will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The Lovers suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The Lovers. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-07",
+            "id": 8,
+            "name": "The Chariot",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Water",
+            "astrology": "Cancer",
+            "life_domains": [],
+            "tags": [
+                "travel",
+                "vehicle",
+                "determination",
+                "momentum"
+            ],
+            "description": "Steering opposing forces toward success.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Victory",
+                        "Willpower",
+                        "Control"
+                    ],
+                    "description": "Steering opposing forces toward success."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Opposition",
+                        "Aggression",
+                        "Loss of Control"
+                    ],
+                    "description": "Feeling pulled in many directions."
+                }
+            },
+            "positional_weighting": {
+                "past": "Through sheer willpower and determination, you overcame obstacles and achieved a hard-fought victory.",
+                "obstacle": "A lack of direction, opposing forces, or aggressive attempts to control the uncontrollable are derailing you.",
+                "present": "The energy of The Chariot is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or an internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The Chariot will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The Chariot suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The Chariot. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-08",
+            "id": 9,
+            "name": "Strength",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Fire",
+            "astrology": "Leo",
+            "life_domains": [],
+            "tags": [
+                "perseverance"
+            ],
+            "description": "Mastery of the self through gentleness.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Courage",
+                        "Influence",
+                        "Compassion"
+                    ],
+                    "description": "Mastery of the self through gentleness."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Self-Doubt",
+                        "Weakness",
+                        "Raw Emotion"
+                    ],
+                    "description": "Overwhelmed by instinct."
+                }
+            },
+            "positional_weighting": {
+                "past": "You utilized inner resilience, patience, and soft power to navigate a difficult period.",
+                "obstacle": "Self-doubt, insecurity, or a failure to control your emotional reactions is undermining your strength.",
+                "present": "The energy of Strength is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or an internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of Strength will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of Strength suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of Strength. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-09",
+            "id": 10,
+            "name": "The Hermit",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Earth",
+            "astrology": "Virgo",
+            "life_domains": [],
+            "tags": [
+                "solitude",
+                "wisdom"
+            ],
+            "description": "Withdrawal to seek inner truth.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Introspection",
+                        "Solitude",
+                        "Guidance"
+                    ],
+                    "description": "Withdrawal to seek inner truth."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Isolation",
+                        "Loneliness",
+                        "Withdrawal"
+                    ],
+                    "description": "Forced isolation or losing the way."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of deliberate solitude and soul-searching provided you with vital self-knowledge.",
+                "obstacle": "Unhealthy isolation, antisocial behavior, or an inability to integrate your insights into the real world.",
+                "present": "The energy of The Hermit is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or an internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of The Hermit will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of The Hermit suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of The Hermit. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-10",
+            "id": 11,
+            "name": "Wheel of Fortune",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Fire",
+            "astrology": "Jupiter",
+            "life_domains": [],
+            "tags": [
+                "change",
+                "luck",
+                "karma",
+                "cycles"
+            ],
+            "description": "Accepting the inevitable motion of the universe.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Cycles",
+                        "Luck",
+                        "Destiny"
+                    ],
+                    "description": "Accepting the inevitable motion of the universe."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Bad Luck",
+                        "Resistance",
+                        "Misfortune"
+                    ],
+                    "description": "Stagnation or difficult karmic lessons."
+                }
+            },
+            "positional_weighting": {
+                "past": "A sudden turning point, stroke of luck, or destined event fundamentally shifted your circumstances.",
+                "obstacle": "You are resisting inevitable change or repeating a negative karmic cycle you have yet to learn from.",
+                "present": "The energy of Wheel of Fortune is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or an internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of Wheel of Fortune will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of Wheel of Fortune suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of Wheel of Fortune. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-11",
+            "id": 12,
+            "name": "Justice",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Air",
+            "astrology": "Libra",
+            "life_domains": [],
+            "tags": [
+                "honesty",
+                "legal",
+                "contracts"
+            ],
+            "description": "Objective evaluation and balance.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Fairness",
+                        "Truth",
+                        "Cause and Effect"
+                    ],
+                    "description": "Objective evaluation and balance."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Unfairness",
+                        "Dishonesty",
+                        "Injustice"
+                    ],
+                    "description": "Truth obscured; consequences avoided."
+                }
+            },
+            "positional_weighting": {
+                "past": "Your past was defined by a need for accountability, a legal decision, or the balancing of karmic scales.",
+                "obstacle": "A lack of accountability, dishonesty, or an unfair situation is preventing resolution.",
+                "present": "The energy of Justice is currently manifesting as a dominant force in your environment. You are likely feeling the direct impact of its archetypal themes—whether through external events or an internal shift in perspective—demanding your immediate attention and conscious engagement.",
+                "future": "As you move forward, the essence of Justice will crystallize into a definitive outcome. If current trajectories remain unchanged, you can expect this energy to be the primary catalyst for the next major milestone in your journey, bringing either the fruition of your efforts or a necessary point of reckoning.",
+                "advice": "The wisdom of Justice suggests a strategic approach: lean into its highest expression. Align your actions with its core strengths while remaining vigilant against its potential pitfalls. Success in your current endeavor depends on your ability to embody these specific qualities with integrity and discipline.",
+                "hopes_fears": "Subconsciously, you are navigating the dual nature of Justice. You likely harbor a deep hope that its positive aspects will lead to your personal or professional fulfillment, yet this is shadowed by a persistent fear that you may be overwhelmed by the responsibilities or transformations it requires."
+            }
+        },
+        {
+            "key": "major-12",
+            "id": 13,
+            "name": "The Hanged Man",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Water",
+            "astrology": "Neptune",
+            "life_domains": [],
+            "tags": [
+                "sacrifice",
+                "pause",
+                "surrender",
+                "perspective"
+            ],
+            "description": "A deliberate pause that reveals a new perspective.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Surrender",
+                        "Perspective",
+                        "Letting Go"
+                    ],
+                    "description": "A conscious release that allows clarity to emerge."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Stagnation",
+                        "Resistance",
+                        "Delay"
+                    ],
+                    "description": "Clinging to control prevents necessary transformation."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of suspension or waiting shaped your understanding of what truly matters.",
+                "obstacle": "Resistance to letting go or refusing to shift your perspective is blocking progress.",
+                "present": "The energy of The Hanged Man is currently manifesting as a dominant force in your environment. You are being asked to pause, reassess, and release outdated expectations.",
+                "future": "If current trajectories remain unchanged, a breakthrough will emerge once you surrender control and allow events to unfold naturally.",
+                "advice": "Lean into stillness. Release urgency. Insight will arise when you stop forcing outcomes.",
+                "hopes_fears": "You hope surrender will bring clarity, yet fear that letting go means losing control."
+            }
+        },
+                {
+            "key": "major-13",
+            "id": 14,
+            "name": "Death",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Water",
+            "astrology": "Scorpio",
+            "life_domains": [],
+            "tags": [
+                "transformation",
+                "ending",
+                "rebirth"
+            ],
+            "description": "A necessary ending that clears the way for renewal.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Transformation",
+                        "Release",
+                        "Transition"
+                    ],
+                    "description": "Letting go of what has run its course to make space for rebirth."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Resistance",
+                        "Stagnation",
+                        "Fear of Change"
+                    ],
+                    "description": "Clinging to the familiar prevents needed evolution."
+                }
+            },
+            "positional_weighting": {
+                "past": "A major ending or transition reshaped your path and identity.",
+                "obstacle": "Fear of change or refusal to release what no longer serves you.",
+                "present": "You are in the midst of a profound transformation that requires surrender.",
+                "future": "A significant transition will clear space for a new beginning.",
+                "advice": "Release the old with intention; renewal follows your willingness to let go.",
+                "hopes_fears": "You hope for rebirth but fear the loss required to reach it."
+            }
+        },
+        {
+            "key": "major-14",
+            "id": 15,
+            "name": "Temperance",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Fire",
+            "astrology": "Sagittarius",
+            "life_domains": [],
+            "tags": [
+                "balance",
+                "moderation",
+                "healing"
+            ],
+            "description": "The art of blending opposites into harmony.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Balance",
+                        "Patience",
+                        "Integration"
+                    ],
+                    "description": "A steady, measured approach brings alignment."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Excess",
+                        "Imbalance",
+                        "Conflict"
+                    ],
+                    "description": "Lack of moderation disrupts your equilibrium."
+                }
+            },
+            "positional_weighting": {
+                "past": "You previously sought balance and healing through moderation and patience.",
+                "obstacle": "Impatience or extremes are preventing harmony.",
+                "present": "You are being guided toward integration and steady progress.",
+                "future": "Balance will be restored through mindful blending of opposing forces.",
+                "advice": "Slow down. Adjust. Let equilibrium emerge naturally.",
+                "hopes_fears": "You hope for peace but fear losing momentum."
+            }
+        },
+        {
+            "key": "major-15",
+            "id": 16,
+            "name": "The Devil",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Earth",
+            "astrology": "Capricorn",
+            "life_domains": [],
+            "tags": [
+                "temptation",
+                "shadow",
+                "attachment"
+            ],
+            "description": "The seductive pull of desire, illusion, and attachment.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Bondage",
+                        "Temptation",
+                        "Shadow Work"
+                    ],
+                    "description": "Facing the chains you willingly or unknowingly wear."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Release",
+                        "Awakening",
+                        "Liberation"
+                    ],
+                    "description": "Breaking free from limiting patterns."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of temptation or unhealthy attachment shaped your choices.",
+                "obstacle": "Addiction, obsession, or denial of your shadow is blocking progress.",
+                "present": "You are confronting illusions or attachments that limit your freedom.",
+                "future": "A moment of awakening will reveal what must be released.",
+                "advice": "Acknowledge your shadow without letting it define you.",
+                "hopes_fears": "You hope to break free but fear confronting the truth."
+            }
+        },
+        {
+            "key": "major-16",
+            "id": 17,
+            "name": "The Tower",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Fire",
+            "astrology": "Mars",
+            "life_domains": [],
+            "tags": [
+                "upheaval",
+                "revelation",
+                "collapse"
+            ],
+            "description": "A sudden disruption that clears away false foundations.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Upheaval",
+                        "Revelation",
+                        "Breakdown"
+                    ],
+                    "description": "A necessary collapse that exposes truth."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Avoidance",
+                        "Fear",
+                        "Delayed Disaster"
+                    ],
+                    "description": "Resisting change prolongs instability."
+                }
+            },
+            "positional_weighting": {
+                "past": "A sudden upheaval shattered old structures and beliefs.",
+                "obstacle": "Avoiding necessary change or refusing to face truth.",
+                "present": "A revelation or disruption is clearing away what cannot stand.",
+                "future": "A dramatic shift will create space for rebuilding.",
+                "advice": "Let the collapse happen; rebuilding begins with honesty.",
+                "hopes_fears": "You hope for clarity but fear the destruction required to reach it."
+            }
+        },
+        {
+            "key": "major-17",
+            "id": 18,
+            "name": "The Star",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Air",
+            "astrology": "Aquarius",
+            "life_domains": [],
+            "tags": [
+                "hope",
+                "healing",
+                "guidance"
+            ],
+            "description": "A moment of clarity, renewal, and spiritual alignment.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Hope",
+                        "Healing",
+                        "Inspiration"
+                    ],
+                    "description": "A guiding light restores faith and direction."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Doubt",
+                        "Disconnection",
+                        "Discouragement"
+                    ],
+                    "description": "Losing sight of your inner light."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of healing and renewed hope shaped your path.",
+                "obstacle": "Self-doubt or lack of faith is clouding your vision.",
+                "present": "You are being guided toward clarity and spiritual renewal.",
+                "future": "A hopeful breakthrough will illuminate your next steps.",
+                "advice": "Trust the process; your inner compass is aligned.",
+                "hopes_fears": "You hope for guidance but fear disappointment."
+            }
+        },
+        {
+            "key": "major-18",
+            "id": 19,
+            "name": "The Moon",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Water",
+            "astrology": "Pisces",
+            "life_domains": [],
+            "tags": [
+                "illusion",
+                "intuition",
+                "fear"
+            ],
+            "description": "A landscape of dreams, illusions, and subconscious signals.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Intuition",
+                        "Mystery",
+                        "Uncertainty"
+                    ],
+                    "description": "Navigating the unknown through intuition."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Clarity",
+                        "Revelation",
+                        "Truth"
+                    ],
+                    "description": "Illusions dissolve, revealing what was hidden."
+                }
+            },
+            "positional_weighting": {
+                "past": "A confusing or dreamlike period shaped your emotional landscape.",
+                "obstacle": "Fear, illusion, or misinterpretation clouds your judgment.",
+                "present": "You are navigating uncertainty and subconscious influence.",
+                "future": "Clarity will emerge as illusions fade.",
+                "advice": "Trust intuition but verify reality.",
+                "hopes_fears": "You hope for clarity but fear what may be revealed."
+            }
+        },
+        {
+            "key": "major-19",
+            "id": 20,
+            "name": "The Sun",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Fire",
+            "astrology": "Sun",
+            "life_domains": [],
+            "tags": [
+                "joy",
+                "success",
+                "vitality"
+            ],
+            "description": "Radiant clarity and joyful expansion.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Success",
+                        "Vitality",
+                        "Joy"
+                    ],
+                    "description": "A period of warmth, clarity, and achievement."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Doubt",
+                        "Clouded Joy",
+                        "Temporary Setback"
+                    ],
+                    "description": "A dimming of optimism or delayed success."
+                }
+            },
+            "positional_weighting": {
+                "past": "A joyful or successful period uplifted your spirit.",
+                "obstacle": "Self-doubt or temporary setbacks obscure your light.",
+                "present": "You are entering a phase of clarity and positive momentum.",
+                "future": "Success and fulfillment are on the horizon.",
+                "advice": "Lean into optimism and authenticity.",
+                "hopes_fears": "You hope for joy but fear disappointment."
+            }
+        },
+        {
+            "key": "major-20",
+            "id": 21,
+            "name": "Judgement",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Fire",
+            "astrology": "Pluto",
+            "life_domains": [],
+            "tags": [
+                "awakening",
+                "calling",
+                "reckoning"
+            ],
+            "description": "A moment of awakening that calls you to rise.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Awakening",
+                        "Renewal",
+                        "Purpose"
+                    ],
+                    "description": "A call to step into your higher path."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Self-Doubt",
+                        "Avoidance",
+                        "Delay"
+                    ],
+                    "description": "Ignoring a calling or resisting transformation."
+                }
+            },
+            "positional_weighting": {
+                "past": "A moment of awakening or accountability reshaped your direction.",
+                "obstacle": "Avoiding responsibility or ignoring your inner calling.",
+                "present": "You are being summoned to rise into a new phase of purpose.",
+                "future": "A powerful awakening will guide your next steps.",
+                "advice": "Listen to the call; step into alignment.",
+                "hopes_fears": "You hope to rise but fear the responsibility it brings."
+            }
+        },
+        {
+            "key": "major-21",
+            "id": 22,
+            "name": "The World",
+            "arcana": "Major",
+            "card_type": "Major Arcana",
+            "suit": "None",
+            "elemental_weight": "Earth",
+            "astrology": "Saturn",
+            "life_domains": [],
+            "tags": [
+                "completion",
+                "achievement",
+                "wholeness"
+            ],
+            "description": "The fulfillment of a cycle and the integration of its lessons.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Completion",
+                        "Success",
+                        "Integration"
+                    ],
+                    "description": "A cycle concludes with mastery and fulfillment."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Delay",
+                        "Incomplete",
+                        "Loose Ends"
+                    ],
+                    "description": "A cycle remains unfinished or blocked."
+                }
+            },
+            "positional_weighting": {
+                "past": "A major cycle reached completion, granting closure and wisdom.",
+                "obstacle": "Unfinished business or resistance to closure.",
+                "present": "You are integrating lessons and approaching completion.",
+                "future": "A cycle will conclude successfully, opening a new chapter.",
+                "advice": "Honor the ending; prepare for renewal.",
+                "hopes_fears": "You hope for closure but fear what comes after."
+            }
+        },
+        {
+            "key": "wands-01",
+            "id": 23,
+            "name": "Ace of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Aries / Leo / Sagittarius",
+            "life_domains": [],
+            "tags": [
+                "inspiration",
+                "spark",
+                "initiative"
+            ],
+            "description": "The first spark of creative fire.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Inspiration",
+                        "Opportunity",
+                        "New Energy"
+                    ],
+                    "description": "A burst of creative potential ignites action."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Delay",
+                        "Blocked Creativity",
+                        "False Start"
+                    ],
+                    "description": "The spark struggles to catch flame."
+                }
+            },
+            "positional_weighting": {
+                "past": "A new idea or burst of inspiration set events in motion.",
+                "obstacle": "Creative blocks or hesitation prevent momentum.",
+                "present": "A new opportunity is emerging with fiery potential.",
+                "future": "A powerful spark will ignite your next chapter.",
+                "advice": "Act boldly; the energy is ripe for creation.",
+                "hopes_fears": "You hope for inspiration but fear burnout."
+            }
+        },
+        {
+            "key": "wands-02",
+            "id": 24,
+            "name": "Two of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Mars in Aries",
+            "life_domains": [],
+            "tags": [
+                "planning",
+                "vision",
+                "choice"
+            ],
+            "description": "A moment of planning before bold expansion.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Planning",
+                        "Vision",
+                        "Potential"
+                    ],
+                    "description": "You stand at the threshold of expansion."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Fear",
+                        "Stagnation",
+                        "Limited Thinking"
+                    ],
+                    "description": "Hesitation blocks your next step."
+                }
+            },
+            "positional_weighting": {
+                "past": "You envisioned a path forward and began planning your next move.",
+                "obstacle": "Fear of the unknown or lack of direction.",
+                "present": "You are evaluating options and preparing for expansion.",
+                "future": "A decisive choice will open new horizons.",
+                "advice": "Clarify your vision and commit to the path.",
+                "hopes_fears": "You hope for growth but fear choosing wrong."
+            }
+        },
+                {
+            "key": "wands-03",
+            "id": 25,
+            "name": "Three of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Sun in Aries",
+            "life_domains": [],
+            "tags": [
+                "progress",
+                "expansion",
+                "momentum"
+            ],
+            "description": "Your efforts begin to bear fruit as horizons widen.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Expansion",
+                        "Momentum",
+                        "Opportunity"
+                    ],
+                    "description": "Your plans are taking shape with promising results."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Delay",
+                        "Frustration",
+                        "Limited Growth"
+                    ],
+                    "description": "Progress stalls or expectations fall short."
+                }
+            },
+            "positional_weighting": {
+                "past": "Your earlier efforts began to show results and open new paths.",
+                "obstacle": "Delays or lack of support hinder expansion.",
+                "present": "Momentum is building; opportunities are approaching.",
+                "future": "A successful expansion or breakthrough is near.",
+                "advice": "Stay the course; your efforts are aligning.",
+                "hopes_fears": "You hope for progress but fear setbacks."
+            }
+        },
+        {
+            "key": "wands-04",
+            "id": 26,
+            "name": "Four of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Venus in Aries",
+            "life_domains": [],
+            "tags": [
+                "celebration",
+                "home",
+                "milestone"
+            ],
+            "description": "A moment of stability, celebration, and communal joy.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Celebration",
+                        "Harmony",
+                        "Milestones"
+                    ],
+                    "description": "A joyful event or stable foundation brings fulfillment."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Tension",
+                        "Delay",
+                        "Uncertainty"
+                    ],
+                    "description": "Celebrations are postponed or harmony is disrupted."
+                }
+            },
+            "positional_weighting": {
+                "past": "A milestone or celebration strengthened your foundation.",
+                "obstacle": "Instability or tension disrupts harmony.",
+                "present": "A moment of joy or completion is emerging.",
+                "future": "A celebration or achievement is approaching.",
+                "advice": "Honor your progress and nurture your connections.",
+                "hopes_fears": "You hope for stability but fear disruption."
+            }
+        },
+        {
+            "key": "wands-05",
+            "id": 27,
+            "name": "Five of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Saturn in Leo",
+            "life_domains": [],
+            "tags": [
+                "conflict",
+                "competition",
+                "chaos"
+            ],
+            "description": "Clashing energies create friction and challenge.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Conflict",
+                        "Competition",
+                        "Struggle"
+                    ],
+                    "description": "Multiple forces compete for dominance."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Resolution",
+                        "Avoidance",
+                        "Harmony"
+                    ],
+                    "description": "Conflict subsides or is avoided entirely."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of conflict or competition shaped your environment.",
+                "obstacle": "Unresolved tension or chaotic dynamics block progress.",
+                "present": "You are navigating conflict or competing priorities.",
+                "future": "A challenge will require strategy and resilience.",
+                "advice": "Choose your battles wisely; not all conflict is productive.",
+                "hopes_fears": "You hope for resolution but fear escalation."
+            }
+        },
+        {
+            "key": "wands-06",
+            "id": 28,
+            "name": "Six of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Jupiter in Leo",
+            "life_domains": [],
+            "tags": [
+                "victory",
+                "recognition",
+                "success"
+            ],
+            "description": "A moment of triumph and public acknowledgment.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Victory",
+                        "Recognition",
+                        "Achievement"
+                    ],
+                    "description": "Your efforts are seen and celebrated."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Doubt",
+                        "Setback",
+                        "Unrecognized Effort"
+                    ],
+                    "description": "Success is delayed or overlooked."
+                }
+            },
+            "positional_weighting": {
+                "past": "A victory or achievement boosted your confidence.",
+                "obstacle": "Lack of recognition or self-doubt undermines progress.",
+                "present": "You are stepping into a moment of success.",
+                "future": "Recognition and achievement are forthcoming.",
+                "advice": "Own your accomplishments; continue leading with integrity.",
+                "hopes_fears": "You hope for success but fear falling short."
+            }
+        },
+        {
+            "key": "wands-07",
+            "id": 29,
+            "name": "Seven of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Mars in Leo",
+            "life_domains": [],
+            "tags": [
+                "defense",
+                "resilience",
+                "challenge"
+            ],
+            "description": "Standing your ground against pressure or opposition.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Defense",
+                        "Courage",
+                        "Persistence"
+                    ],
+                    "description": "You hold your position despite challenges."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Overwhelm",
+                        "Retreat",
+                        "Defeat"
+                    ],
+                    "description": "Pressure becomes too great to maintain your stance."
+                }
+            },
+            "positional_weighting": {
+                "past": "You defended your position with courage and resilience.",
+                "obstacle": "Overwhelm or burnout threatens your stability.",
+                "present": "You are being challenged to stand firm.",
+                "future": "A test of resilience will require inner strength.",
+                "advice": "Hold your ground, but choose battles wisely.",
+                "hopes_fears": "You hope to prevail but fear being overpowered."
+            }
+        },
+        {
+            "key": "wands-08",
+            "id": 30,
+            "name": "Eight of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Mercury in Sagittarius",
+            "life_domains": [],
+            "tags": [
+                "movement",
+                "communication",
+                "speed"
+            ],
+            "description": "Rapid movement propels events forward.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Speed",
+                        "Progress",
+                        "Communication"
+                    ],
+                    "description": "Momentum accelerates; things fall into place quickly."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Delay",
+                        "Miscommunication",
+                        "Stagnation"
+                    ],
+                    "description": "Progress slows or messages become tangled."
+                }
+            },
+            "positional_weighting": {
+                "past": "Events moved quickly, creating rapid change.",
+                "obstacle": "Delays or miscommunication hinder progress.",
+                "present": "Momentum is building; movement is imminent.",
+                "future": "Swift progress or news will arrive soon.",
+                "advice": "Stay adaptable; things may shift quickly.",
+                "hopes_fears": "You hope for progress but fear losing control."
+            }
+        },
+        {
+            "key": "wands-09",
+            "id": 31,
+            "name": "Nine of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Moon in Sagittarius",
+            "life_domains": [],
+            "tags": [
+                "endurance",
+                "fatigue",
+                "persistence"
+            ],
+            "description": "The final test before completion.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Resilience",
+                        "Endurance",
+                        "Boundaries"
+                    ],
+                    "description": "You persist despite exhaustion."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Burnout",
+                        "Weakness",
+                        "Giving Up"
+                    ],
+                    "description": "Fatigue threatens your ability to continue."
+                }
+            },
+            "positional_weighting": {
+                "past": "You pushed through adversity with determination.",
+                "obstacle": "Burnout or emotional fatigue blocks progress.",
+                "present": "You are facing a final challenge requiring resilience.",
+                "future": "A breakthrough follows your persistence.",
+                "advice": "Hold strong, but protect your energy.",
+                "hopes_fears": "You hope to endure but fear collapse."
+            }
+        },
+        {
+            "key": "wands-10",
+            "id": 32,
+            "name": "Ten of Wands",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Saturn in Sagittarius",
+            "life_domains": [],
+            "tags": [
+                "burden",
+                "responsibility",
+                "overload"
+            ],
+            "description": "Carrying more than your share of weight.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Responsibility",
+                        "Burden",
+                        "Completion"
+                    ],
+                    "description": "You carry heavy responsibilities toward a final goal."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Release",
+                        "Delegation",
+                        "Collapse"
+                    ],
+                    "description": "The load becomes unsustainable."
+                }
+            },
+            "positional_weighting": {
+                "past": "You took on significant responsibilities or burdens.",
+                "obstacle": "Overwork or overwhelm threatens collapse.",
+                "present": "You are nearing the end of a heavy cycle.",
+                "future": "A burden will be lifted or completed.",
+                "advice": "Delegate where possible; lighten your load.",
+                "hopes_fears": "You hope to finish strong but fear burnout."
+            }
+        },
+        {
+            "key": "wands-11",
+            "id": 33,
+            "name": "Page of Wands",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Fire Signs",
+            "life_domains": [],
+            "tags": [
+                "exploration",
+                "curiosity",
+                "enthusiasm"
+            ],
+            "description": "A messenger of inspiration and new adventures.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Curiosity",
+                        "Exploration",
+                        "Excitement"
+                    ],
+                    "description": "A fresh idea or opportunity sparks enthusiasm."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Immaturity",
+                        "Restlessness",
+                        "Lack of Direction"
+                    ],
+                    "description": "Energy scatters without focus."
+                }
+            },
+            "positional_weighting": {
+                "past": "A burst of curiosity or exploration opened new paths.",
+                "obstacle": "Lack of direction or scattered energy.",
+                "present": "A new idea or message brings excitement.",
+                "future": "A fresh opportunity will ignite passion.",
+                "advice": "Stay open and curious; follow inspiration.",
+                "hopes_fears": "You hope for adventure but fear instability."
+            }
+        },
+        {
+            "key": "wands-12",
+            "id": 34,
+            "name": "Knight of Wands",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Sagittarius",
+            "life_domains": [],
+            "tags": [
+                "action",
+                "impulse",
+                "adventure"
+            ],
+            "description": "Bold movement driven by passion and ambition.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Action",
+                        "Adventure",
+                        "Confidence"
+                    ],
+                    "description": "You charge forward with fiery determination."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Recklessness",
+                        "Delay",
+                        "Frustration"
+                    ],
+                    "description": "Impulsive action leads to setbacks."
+                }
+            },
+            "positional_weighting": {
+                "past": "You acted boldly, driven by passion and ambition.",
+                "obstacle": "Impulsiveness or lack of planning creates chaos.",
+                "present": "You are entering a phase of rapid movement.",
+                "future": "A bold opportunity will require decisive action.",
+                "advice": "Move with intention, not impulse.",
+                "hopes_fears": "You hope for adventure but fear missteps."
+            }
+        },
+        {
+            "key": "wands-13",
+            "id": 35,
+            "name": "Queen of Wands",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Leo",
+            "life_domains": [],
+            "tags": [
+                "confidence",
+                "charisma",
+                "leadership"
+            ],
+            "description": "Magnetic leadership fueled by passion and authenticity.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Confidence",
+                        "Warmth",
+                        "Influence"
+                    ],
+                    "description": "You lead with charisma and creative fire."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Insecurity",
+                        "Jealousy",
+                        "Burnout"
+                    ],
+                    "description": "Confidence wavers or energy becomes scattered."
+                }
+            },
+            "positional_weighting": {
+                "past": "You embodied confidence and inspired others.",
+                "obstacle": "Self-doubt or emotional volatility disrupts leadership.",
+                "present": "You are stepping into a role of influence.",
+                "future": "Your charisma will open new doors.",
+                "advice": "Lead with authenticity and warmth.",
+                "hopes_fears": "You hope to shine but fear scrutiny."
+            }
+        },
+        {
+            "key": "wands-14",
+            "id": 36,
+            "name": "King of Wands",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Wands",
+            "elemental_weight": "Fire",
+            "astrology": "Aries",
+            "life_domains": [],
+            "tags": [
+                "vision",
+                "leadership",
+                "authority"
+            ],
+            "description": "A visionary leader who commands with passion and clarity.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Leadership",
+                        "Vision",
+                        "Authority"
+                    ],
+                    "description": "You take charge with confidence and purpose."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Tyranny",
+                        "Impulsiveness",
+                        "Domineering"
+                    ],
+                    "description": "Leadership becomes forceful or misdirected."
+                }
+            },
+            "positional_weighting": {
+                "past": "You took decisive leadership in a key moment.",
+                "obstacle": "Overcontrol or impulsive decisions undermine progress.",
+                "present": "You are being called to lead with vision.",
+                "future": "A leadership role or major decision approaches.",
+                "advice": "Lead boldly but remain grounded.",
+                "hopes_fears": "You hope to lead but fear misuse of power."
+            }
+        },
+        {
+            "key": "cups-01",
+            "id": 37,
+            "name": "Ace of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Cancer / Scorpio / Pisces",
+            "life_domains": [],
+            "tags": [
+                "emotion",
+                "love",
+                "intuition"
+            ],
+            "description": "The opening of the heart and the flow of new emotion.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Love",
+                        "Intuition",
+                        "New Feelings"
+                    ],
+                    "description": "A fresh emotional beginning emerges."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Blocked Emotion",
+                        "Suppression",
+                        "Emptiness"
+                    ],
+                    "description": "Emotional flow is restricted or withheld."
+                }
+            },
+            "positional_weighting": {
+                                "past": "A new emotional experience shaped your heart.",
+                "obstacle": "Emotional blockage or fear of vulnerability.",
+                "present": "A new emotional opening is forming.",
+                "future": "A heartfelt beginning or connection will emerge.",
+                "advice": "Stay open to emotional flow.",
+                "hopes_fears": "You hope for connection but fear vulnerability."
+            }
+        },
+        {
+            "key": "cups-02",
+            "id": 38,
+            "name": "Two of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Venus in Cancer",
+            "life_domains": [],
+            "tags": [
+                "union",
+                "partnership",
+                "connection"
+            ],
+            "description": "A harmonious bond formed through mutual exchange.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Partnership",
+                        "Harmony",
+                        "Attraction"
+                    ],
+                    "description": "A meaningful connection deepens."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Imbalance",
+                        "Breakdown",
+                        "Misalignment"
+                    ],
+                    "description": "A relationship struggles to maintain harmony."
+                }
+            },
+            "positional_weighting": {
+                "past": "A significant partnership or emotional bond shaped your path.",
+                "obstacle": "Miscommunication or emotional imbalance disrupts harmony.",
+                "present": "A connection is strengthening or seeking alignment.",
+                "future": "A meaningful partnership or reconciliation is approaching.",
+                "advice": "Prioritize honest communication and mutual respect.",
+                "hopes_fears": "You hope for unity but fear rejection."
+            }
+        },
+        {
+            "key": "cups-03",
+            "id": 39,
+            "name": "Three of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Mercury in Cancer",
+            "life_domains": [],
+            "tags": [
+                "friendship",
+                "community",
+                "celebration"
+            ],
+            "description": "A joyful gathering that strengthens emotional bonds.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Friendship",
+                        "Celebration",
+                        "Support"
+                    ],
+                    "description": "Community and shared joy uplift your spirit."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Isolation",
+                        "Overindulgence",
+                        "Disconnection"
+                    ],
+                    "description": "Social tension or emotional distance emerges."
+                }
+            },
+            "positional_weighting": {
+                "past": "A supportive community or celebration shaped your emotional landscape.",
+                "obstacle": "Isolation or strained friendships block emotional flow.",
+                "present": "You are entering a period of connection and shared joy.",
+                "future": "A celebration or reunion brings warmth.",
+                "advice": "Lean into your support network.",
+                "hopes_fears": "You hope for belonging but fear exclusion."
+            }
+        },
+        {
+            "key": "cups-04",
+            "id": 40,
+            "name": "Four of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Moon in Cancer",
+            "life_domains": [],
+            "tags": [
+                "apathy",
+                "withdrawal",
+                "reflection"
+            ],
+            "description": "Emotional withdrawal creates space for introspection.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Contemplation",
+                        "Apathy",
+                        "Reevaluation"
+                    ],
+                    "description": "You withdraw to reassess your emotional needs."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Awakening",
+                        "New Interest",
+                        "Reengagement"
+                    ],
+                    "description": "You reawaken to possibilities previously ignored."
+                }
+            },
+            "positional_weighting": {
+                "past": "You withdrew emotionally to reflect on your needs.",
+                "obstacle": "Apathy or emotional numbness blocks progress.",
+                "present": "You are reassessing what truly fulfills you.",
+                "future": "A new emotional opportunity will emerge.",
+                "advice": "Look beyond your current emotional focus.",
+                "hopes_fears": "You hope for clarity but fear disappointment."
+            }
+        },
+        {
+            "key": "cups-05",
+            "id": 41,
+            "name": "Five of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Mars in Scorpio",
+            "life_domains": [],
+            "tags": [
+                "loss",
+                "grief",
+                "regret"
+            ],
+            "description": "Focusing on what is lost obscures what remains.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Grief",
+                        "Regret",
+                        "Disappointment"
+                    ],
+                    "description": "You mourn what has been lost."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Acceptance",
+                        "Healing",
+                        "Recovery"
+                    ],
+                    "description": "You begin to move forward from sorrow."
+                }
+            },
+            "positional_weighting": {
+                "past": "A loss or disappointment shaped your emotional world.",
+                "obstacle": "Fixation on the past prevents healing.",
+                "present": "You are processing grief or regret.",
+                "future": "Healing and acceptance will emerge.",
+                "advice": "Honor your feelings but look toward what remains.",
+                "hopes_fears": "You hope to heal but fear repeating past pain."
+            }
+        },
+        {
+            "key": "cups-06",
+            "id": 42,
+            "name": "Six of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Sun in Scorpio",
+            "life_domains": [],
+            "tags": [
+                "nostalgia",
+                "memory",
+                "innocence"
+            ],
+            "description": "A return to the past brings comfort or clarity.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Nostalgia",
+                        "Reunion",
+                        "Innocence"
+                    ],
+                    "description": "Memories or past connections resurface with warmth."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Stagnation",
+                        "Clinging",
+                        "Idealization"
+                    ],
+                    "description": "Overattachment to the past prevents growth."
+                }
+            },
+            "positional_weighting": {
+                "past": "A memory or past relationship influenced your present.",
+                "obstacle": "Clinging to the past blocks progress.",
+                "present": "A reconnection or memory brings insight.",
+                "future": "A meaningful reunion or rediscovery is coming.",
+                "advice": "Honor the past but stay rooted in the present.",
+                "hopes_fears": "You hope for reconnection but fear reopening old wounds."
+            }
+        },
+        {
+            "key": "cups-07",
+            "id": 43,
+            "name": "Seven of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Venus in Scorpio",
+            "life_domains": [],
+            "tags": [
+                "choices",
+                "illusion",
+                "fantasy"
+            ],
+            "description": "Many options appear, but not all are real or wise.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Choices",
+                        "Dreams",
+                        "Possibility"
+                    ],
+                    "description": "You face multiple paths, each with promise or illusion."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Clarity",
+                        "Focus",
+                        "Decision"
+                    ],
+                    "description": "Illusions fade, revealing the true path."
+                }
+            },
+            "positional_weighting": {
+                "past": "You explored many possibilities or fantasies.",
+                "obstacle": "Confusion or illusion clouds judgment.",
+                "present": "You are evaluating choices with unclear outcomes.",
+                "future": "Clarity will reveal the best path.",
+                "advice": "Ground your decisions in reality.",
+                "hopes_fears": "You hope for possibility but fear choosing wrong."
+            }
+        },
+        {
+            "key": "cups-08",
+            "id": 44,
+            "name": "Eight of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Saturn in Pisces",
+            "life_domains": [],
+            "tags": [
+                "departure",
+                "search",
+                "transition"
+            ],
+            "description": "Leaving behind what no longer fulfills you.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Departure",
+                        "Seeking",
+                        "Letting Go"
+                    ],
+                    "description": "You walk away in search of deeper meaning."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Avoidance",
+                        "Fear of Change",
+                        "Stagnation"
+                    ],
+                    "description": "You hesitate to leave an unfulfilling situation."
+                }
+            },
+            "positional_weighting": {
+                "past": "You left something behind in search of fulfillment.",
+                "obstacle": "Fear of change or emotional attachment blocks movement.",
+                "present": "You are approaching a turning point of departure.",
+                "future": "A meaningful transition is ahead.",
+                "advice": "Trust your inner compass; move toward what nourishes you.",
+                "hopes_fears": "You hope for renewal but fear loss."
+            }
+        },
+        {
+            "key": "cups-09",
+            "id": 45,
+            "name": "Nine of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Jupiter in Pisces",
+            "life_domains": [],
+            "tags": [
+                "satisfaction",
+                "gratitude",
+                "wish"
+            ],
+            "description": "Emotional fulfillment and personal contentment.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Contentment",
+                        "Satisfaction",
+                        "Wish Fulfillment"
+                    ],
+                    "description": "A heartfelt desire comes to fruition."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Discontent",
+                        "Superficiality",
+                        "Overindulgence"
+                    ],
+                    "description": "Fulfillment feels incomplete or hollow."
+                }
+            },
+            "positional_weighting": {
+                "past": "A moment of emotional fulfillment uplifted you.",
+                "obstacle": "Superficial desires or unmet expectations block satisfaction.",
+                "present": "You are nearing emotional fulfillment.",
+                "future": "A wish or heartfelt desire will manifest.",
+                "advice": "Practice gratitude and align with authentic desires.",
+                "hopes_fears": "You hope for fulfillment but fear disappointment."
+            }
+        },
+        {
+            "key": "cups-10",
+            "id": 46,
+            "name": "Ten of Cups",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Cups",
+            "elemental_weight": "Water",
+            "astrology": "Mars in Pisces",
+            "life_domains": [],
+            "tags": [
+                "family",
+                "harmony",
+                "fulfillment"
+            ],
+            "description": "Emotional harmony and lasting fulfillment.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Harmony",
+                        "Joy",
+                        "Alignment"
+                    ],
+                    "description": "A deep sense of emotional wholeness emerges."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Tension",
+                        "Disconnection",
+                        "Misalignment"
+                    ],
+                    "description": "Emotional harmony is disrupted or delayed."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of emotional harmony shaped your expectations.",
+                "obstacle": "Family tension or emotional misalignment blocks fulfillment.",
+                "present": "You are moving toward emotional completion.",
+                "future": "A joyful and harmonious outcome is approaching.",
+                "advice": "Nurture emotional bonds and shared values.",
+                "hopes_fears": "You hope for lasting joy but fear instability."
+            }
+        },
+                {
+            "key": "swords-01",
+            "id": 47,
+            "name": "Ace of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Gemini / Libra / Aquarius",
+            "life_domains": [],
+            "tags": [
+                "clarity",
+                "truth",
+                "breakthrough"
+            ],
+            "description": "A sharp moment of clarity or decisive truth.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Truth",
+                        "Breakthrough",
+                        "Mental Clarity"
+                    ],
+                    "description": "A new insight cuts through confusion."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Confusion",
+                        "Miscommunication",
+                        "Distortion"
+                    ],
+                    "description": "Truth is clouded or misunderstood."
+                }
+            },
+            "positional_weighting": {
+                "past": "A moment of clarity or truth shaped your direction.",
+                "obstacle": "Confusion or misinformation blocks progress.",
+                "present": "A breakthrough or decisive truth is emerging.",
+                "future": "A powerful insight will cut through uncertainty.",
+                "advice": "Speak truth and think clearly.",
+                "hopes_fears": "You hope for clarity but fear what truth may reveal."
+            }
+        },
+        {
+            "key": "swords-02",
+            "id": 48,
+            "name": "Two of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Moon in Libra",
+            "life_domains": [],
+            "tags": [
+                "stalemate",
+                "indecision",
+                "balance"
+            ],
+            "description": "A difficult choice requires inner stillness.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Indecision",
+                        "Stalemate",
+                        "Balance"
+                    ],
+                    "description": "You face a choice that requires clarity and calm."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Confusion",
+                        "Overwhelm",
+                        "Avoidance"
+                    ],
+                    "description": "Avoiding a decision creates tension."
+                }
+            },
+            "positional_weighting": {
+                "past": "You faced a difficult decision requiring neutrality.",
+                "obstacle": "Avoidance or emotional overwhelm blocks clarity.",
+                "present": "A choice must be made despite uncertainty.",
+                "future": "A decision will bring resolution.",
+                "advice": "Seek inner stillness before choosing.",
+                "hopes_fears": "You hope to choose wisely but fear consequences."
+            }
+        },
+        {
+            "key": "swords-03",
+            "id": 49,
+            "name": "Three of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Saturn in Libra",
+            "life_domains": [],
+            "tags": [
+                "heartbreak",
+                "pain",
+                "truth"
+            ],
+            "description": "A painful truth pierces the heart.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Heartbreak",
+                        "Sorrow",
+                        "Revelation"
+                    ],
+                    "description": "Emotional pain surfaces through truth or loss."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Healing",
+                        "Release",
+                        "Recovery"
+                    ],
+                    "description": "You begin to mend from past wounds."
+                }
+            },
+            "positional_weighting": {
+                "past": "A painful event or truth shaped your emotional landscape.",
+                "obstacle": "Unresolved pain or denial blocks healing.",
+                "present": "A difficult truth or emotional wound is surfacing.",
+                "future": "Healing will follow acknowledgment of pain.",
+                "advice": "Allow yourself to feel and process.",
+                "hopes_fears": "You hope to heal but fear reopening wounds."
+            }
+        },
+        {
+            "key": "swords-04",
+            "id": 50,
+            "name": "Four of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Jupiter in Libra",
+            "life_domains": [],
+            "tags": [
+                "rest",
+                "recovery",
+                "pause"
+            ],
+            "description": "A needed pause restores clarity and strength.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Rest",
+                        "Recovery",
+                        "Reflection"
+                    ],
+                    "description": "You withdraw to regain mental clarity."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Restlessness",
+                        "Burnout",
+                        "Avoidance"
+                    ],
+                    "description": "You resist rest despite exhaustion."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of rest or retreat restored your balance.",
+                "obstacle": "Burnout or refusal to pause blocks clarity.",
+                "present": "You need rest to regain perspective.",
+                "future": "A restorative pause will bring clarity.",
+                "advice": "Step back and recharge.",
+                "hopes_fears": "You hope for peace but fear stagnation."
+            }
+        },
+        {
+            "key": "swords-05",
+            "id": 51,
+            "name": "Five of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Venus in Aquarius",
+            "life_domains": [],
+            "tags": [
+                "conflict",
+                "ego",
+                "defeat"
+            ],
+            "description": "A hollow victory reveals deeper conflict.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Conflict",
+                        "Tension",
+                        "Self-Interest"
+                    ],
+                    "description": "Winning at any cost leads to isolation."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Resolution",
+                        "Reconciliation",
+                        "Release"
+                    ],
+                    "description": "Conflict softens or healing begins."
+                }
+            },
+            "positional_weighting": {
+                "past": "A conflict or ego-driven moment created tension.",
+                "obstacle": "Pride or stubbornness blocks resolution.",
+                "present": "You face conflict with unclear winners.",
+                "future": "A confrontation will reveal deeper truths.",
+                "advice": "Choose peace over victory.",
+                "hopes_fears": "You hope for resolution but fear losing ground."
+            }
+        },
+        {
+            "key": "swords-06",
+            "id": 52,
+            "name": "Six of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Mercury in Aquarius",
+            "life_domains": [],
+            "tags": [
+                "transition",
+                "healing",
+                "movement"
+            ],
+            "description": "A journey away from difficulty toward calmer waters.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Transition",
+                        "Healing",
+                        "Progress"
+                    ],
+                    "description": "You move away from conflict toward peace."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Resistance",
+                        "Stagnation",
+                        "Unfinished Business"
+                    ],
+                    "description": "You struggle to leave a difficult situation."
+                }
+            },
+            "positional_weighting": {
+                "past": "You began moving away from difficulty.",
+                "obstacle": "Unfinished business or emotional resistance blocks progress.",
+                "present": "You are transitioning toward calmer conditions.",
+                "future": "A peaceful shift or relocation is ahead.",
+                "advice": "Let go of what weighs you down.",
+                "hopes_fears": "You hope for peace but fear the journey."
+            }
+        },
+        {
+            "key": "swords-07",
+            "id": 53,
+            "name": "Seven of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Moon in Aquarius",
+            "life_domains": [],
+            "tags": [
+                "strategy",
+                "deception",
+                "secrecy"
+            ],
+            "description": "A strategic move requires discretion or reveals hidden motives.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Strategy",
+                        "Cunning",
+                        "Tactics"
+                    ],
+                    "description": "You navigate a situation with careful planning."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Exposure",
+                        "Truth",
+                        "Accountability"
+                    ],
+                    "description": "Hidden motives or deception come to light."
+                }
+            },
+            "positional_weighting": {
+                "past": "A strategic or secretive action shaped events.",
+                "obstacle": "Deception or avoidance blocks progress.",
+                "present": "You must act with strategy or face hidden truths.",
+                "future": "A revelation or strategic shift is coming.",
+                "advice": "Act with integrity and clarity.",
+                "hopes_fears": "You hope to succeed but fear exposure."
+            }
+        },
+        {
+            "key": "swords-08",
+            "id": 54,
+            "name": "Eight of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Jupiter in Gemini",
+            "life_domains": [],
+            "tags": [
+                "restriction",
+                "fear",
+                "limitation"
+            ],
+            "description": "A mental cage formed by fear or self-doubt.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Restriction",
+                        "Fear",
+                        "Paralysis"
+                    ],
+                    "description": "You feel trapped by your own thoughts."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Liberation",
+                        "Perspective",
+                        "Release"
+                    ],
+                    "description": "You begin to free yourself from mental limitation."
+                }
+            },
+            "positional_weighting": {
+                "past": "Fear or self-doubt restricted your movement.",
+                "obstacle": "Limiting beliefs or anxiety block progress.",
+                "present": "You feel trapped or unable to act.",
+                "future": "A shift in perspective will free you.",
+                "advice": "Challenge your assumptions; the cage is not locked.",
+                "hopes_fears": "You hope for freedom but fear taking the first step."
+            }
+        },
+        {
+            "key": "swords-09",
+            "id": 55,
+            "name": "Nine of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Mars in Gemini",
+            "life_domains": [],
+            "tags": [
+                "anxiety",
+                "fear",
+                "worry"
+            ],
+            "description": "Anxiety magnifies imagined fears.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Anxiety",
+                        "Fear",
+                        "Overthinking"
+                    ],
+                    "description": "You wrestle with worry or sleepless thoughts."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Relief",
+                        "Healing",
+                        "Perspective"
+                    ],
+                    "description": "You begin to release fear and regain clarity."
+                }
+            },
+            "positional_weighting": {
+                "past": "Anxiety or fear shaped your recent experiences.",
+                "obstacle": "Overthinking or catastrophizing blocks peace.",
+                "present": "You face inner turmoil or mental distress.",
+                "future": "Relief and clarity will follow emotional release.",
+                "advice": "Ground yourself; not all fears reflect reality.",
+                "hopes_fears": "You hope for peace but fear losing control."
+            }
+        },
+        {
+            "key": "swords-10",
+            "id": 56,
+            "name": "Ten of Swords",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Sun in Gemini",
+            "life_domains": [],
+            "tags": [
+                "ending",
+                "collapse",
+                "finality"
+            ],
+            "description": "A painful ending marks the close of a cycle.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Ending",
+                        "Defeat",
+                        "Release"
+                    ],
+                    "description": "A difficult cycle reaches its conclusion."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Recovery",
+                        "Regeneration",
+                        "Renewal"
+                    ],
+                    "description": "You rise from a painful ending with new strength."
+                }
+            },
+            "positional_weighting": {
+                "past": "A painful ending reshaped your path.",
+                "obstacle": "Refusal to release what has ended.",
+                "present": "You are confronting finality or collapse.",
+                "future": "A new beginning follows this ending.",
+                "advice": "Let go; the worst is behind you.",
+                "hopes_fears": "You hope for renewal but fear more loss."
+            }
+        },
+        {
+            "key": "swords-11",
+            "id": 57,
+            "name": "Page of Swords",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Air Signs",
+            "life_domains": [],
+            "tags": [
+                "curiosity",
+                "ideas",
+                "communication"
+            ],
+            "description": "A sharp mind eager to explore new ideas.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Curiosity",
+                        "Alertness",
+                        "Communication"
+                    ],
+                    "description": "You gather information and explore new perspectives."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Gossip",
+                        "Confusion",
+                        "Restlessness"
+                    ],
+                    "description": "Scattered thoughts or miscommunication arise."
+                }
+            },
+            "positional_weighting": {
+                "past": "A new idea or curiosity sparked movement.",
+                "obstacle": "Restlessness or misinformation blocks clarity.",
+                "present": "You are exploring new ideas or messages.",
+                "future": "A new insight or message will arrive.",
+                "advice": "Stay curious but grounded.",
+                "hopes_fears": "You hope to learn but fear misunderstanding."
+            }
+        },
+        {
+            "key": "swords-12",
+            "id": 58,
+            "name": "Knight of Swords",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Gemini",
+            "life_domains": [],
+            "tags": [
+                "action",
+                "determination",
+                "focus"
+            ],
+            "description": "Swift action driven by sharp intellect.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Determination",
+                        "Speed",
+                        "Focus"
+                    ],
+                    "description": "You charge forward with mental clarity."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Impulsiveness",
+                        "Chaos",
+                        "Misjudgment"
+                    ],
+                    "description": "Rushing leads to mistakes or conflict."
+                }
+            },
+            "positional_weighting": {
+                "past": "You acted quickly with strong conviction.",
+                "obstacle": "Impulsiveness or tunnel vision blocks progress.",
+                "present": "You are moving rapidly toward a goal.",
+                "future": "Swift action or decisive movement is coming.",
+                "advice": "Think before acting; channel your focus.",
+                "hopes_fears": "You hope for progress but fear missteps."
+            }
+        },
+        {
+            "key": "swords-13",
+            "id": 59,
+            "name": "Queen of Swords",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Libra",
+            "life_domains": [],
+            "tags": [
+                "clarity",
+                "independence",
+                "discernment"
+            ],
+            "description": "A clear mind that cuts through illusion.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Discernment",
+                        "Truth",
+                        "Independence"
+                    ],
+                    "description": "You see situations with sharp clarity."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Coldness",
+                        "Bitterness",
+                        "Isolation"
+                    ],
+                    "description": "Logic becomes harsh or overly critical."
+                }
+            },
+            "positional_weighting": {
+                "past": "You relied on intellect and structure to navigate challenges.",                "present": "You are being called to use clarity and discernment.",
+                "future": "A moment requiring honesty and clear boundaries is coming.",
+                "advice": "Lead with truth, but temper logic with compassion.",
+                "hopes_fears": "You hope to stay clear‑minded but fear becoming cold."
+            }
+        },
+        {
+            "key": "swords-14",
+            "id": 60,
+            "name": "King of Swords",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Swords",
+            "elemental_weight": "Air",
+            "astrology": "Aquarius",
+            "life_domains": [],
+            "tags": [
+                "authority",
+                "logic",
+                "truth"
+            ],
+            "description": "A master of logic who leads with clarity and fairness.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Authority",
+                        "Logic",
+                        "Truth"
+                    ],
+                    "description": "You apply reason and structure to guide decisions."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Manipulation",
+                        "Coldness",
+                        "Rigid Thinking"
+                    ],
+                    "description": "Logic becomes weaponized or overly rigid."
+                }
+            },
+            "positional_weighting": {
+                "past": "You relied on intellect and structure to navigate challenges.",
+                "obstacle": "Over‑analysis or emotional detachment blocks progress.",
+                "present": "You are being called to lead with clarity and fairness.",
+                "future": "A decision requiring logic and authority is approaching.",
+                "advice": "Use reason, but remain open‑hearted.",
+                "hopes_fears": "You hope to stay objective but fear losing empathy."
+            }
+        },
+                {
+            "key": "pentacles-01",
+            "id": 61,
+            "name": "Ace of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Taurus / Virgo / Capricorn",
+            "life_domains": [],
+            "tags": [
+                "opportunity",
+                "prosperity",
+                "foundation"
+            ],
+            "description": "A seed of material or practical opportunity is planted.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Prosperity",
+                        "New Start",
+                        "Stability"
+                    ],
+                    "description": "A tangible opportunity for growth emerges."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Delay",
+                        "Instability",
+                        "Missed Chance"
+                    ],
+                    "description": "A material opportunity is blocked or delayed."
+                }
+            },
+            "positional_weighting": {
+                "past": "A new financial or practical beginning shaped your path.",
+                "obstacle": "Instability or lack of resources blocks progress.",
+                "present": "A new opportunity for stability is forming.",
+                "future": "A prosperous beginning or offer is approaching.",
+                "advice": "Nurture the seed; build steadily.",
+                "hopes_fears": "You hope for stability but fear scarcity."
+            }
+        },
+        {
+            "key": "pentacles-02",
+            "id": 62,
+            "name": "Two of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Jupiter in Capricorn",
+            "life_domains": [],
+            "tags": [
+                "balance",
+                "adaptation",
+                "flexibility"
+            ],
+            "description": "Juggling responsibilities requires adaptability and flow.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Balance",
+                        "Flexibility",
+                        "Time Management"
+                    ],
+                    "description": "You navigate multiple priorities with skill."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Overwhelm",
+                        "Disorganization",
+                        "Imbalance"
+                    ],
+                    "description": "Responsibilities become difficult to manage."
+                }
+            },
+            "positional_weighting": {
+                "past": "You balanced multiple responsibilities or transitions.",
+                "obstacle": "Overwhelm or poor planning disrupts stability.",
+                "present": "You are juggling priorities that require flexibility.",
+                "future": "A shift will require adaptable balance.",
+                "advice": "Stay flexible; adjust your rhythm.",
+                "hopes_fears": "You hope to manage everything but fear dropping the ball."
+            }
+        },
+        {
+            "key": "pentacles-03",
+            "id": 63,
+            "name": "Three of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Mars in Capricorn",
+            "life_domains": [],
+            "tags": [
+                "collaboration",
+                "skill",
+                "teamwork"
+            ],
+            "description": "Shared effort builds something lasting.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Teamwork",
+                        "Skill",
+                        "Collaboration"
+                    ],
+                    "description": "Your skills contribute to a shared goal."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Misalignment",
+                        "Conflict",
+                        "Poor Coordination"
+                    ],
+                    "description": "Teamwork falters due to miscommunication."
+                }
+            },
+            "positional_weighting": {
+                "past": "Collaboration or mentorship shaped your progress.",
+                "obstacle": "Lack of cooperation or unclear roles block success.",
+                "present": "You are building something through teamwork.",
+                "future": "A collaborative opportunity will arise.",
+                "advice": "Communicate clearly and value each contribution.",
+                "hopes_fears": "You hope to work well with others but fear conflict."
+            }
+        },
+        {
+            "key": "pentacles-04",
+            "id": 64,
+            "name": "Four of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Sun in Capricorn",
+            "life_domains": [],
+            "tags": [
+                "security",
+                "control",
+                "possession"
+            ],
+            "description": "Holding tightly to resources creates stability—or stagnation.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Security",
+                        "Stability",
+                        "Conservation"
+                    ],
+                    "description": "You protect what you have built."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Release",
+                        "Generosity",
+                        "Letting Go"
+                    ],
+                    "description": "Over‑control loosens, allowing flow."
+                }
+            },
+            "positional_weighting": {
+                "past": "You sought stability through control or saving.",
+                "obstacle": "Fear of loss or rigidity blocks growth.",
+                "present": "You are holding tightly to resources or boundaries.",
+                "future": "A shift will require loosening your grip.",
+                "advice": "Balance security with openness.",
+                "hopes_fears": "You hope to stay secure but fear vulnerability."
+            }
+        },
+        {
+            "key": "pentacles-05",
+            "id": 65,
+            "name": "Five of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Mercury in Taurus",
+            "life_domains": [],
+            "tags": [
+                "loss",
+                "poverty",
+                "isolation"
+            ],
+            "description": "A period of hardship tests resilience and faith.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Hardship",
+                        "Isolation",
+                        "Struggle"
+                    ],
+                    "description": "You face material or emotional difficulty."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Recovery",
+                        "Support",
+                        "Improvement"
+                    ],
+                    "description": "You begin to find support and relief."
+                }
+            },
+            "positional_weighting": {
+                "past": "A period of hardship shaped your resilience.",
+                "obstacle": "Fear of lack or isolation blocks progress.",
+                "present": "You may feel unsupported or strained.",
+                "future": "Relief and support will emerge.",
+                "advice": "Seek connection; you are not alone.",
+                "hopes_fears": "You hope for recovery but fear continued struggle."
+            }
+        },
+        {
+            "key": "pentacles-06",
+            "id": 66,
+            "name": "Six of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Moon in Taurus",
+            "life_domains": [],
+            "tags": [
+                "generosity",
+                "exchange",
+                "support"
+            ],
+            "description": "Giving and receiving create balanced flow.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Generosity",
+                        "Charity",
+                        "Balance"
+                    ],
+                    "description": "Support flows where it is needed."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Strings Attached",
+                        "Debt",
+                        "Imbalance"
+                    ],
+                    "description": "Giving or receiving becomes uneven."
+                }
+            },
+            "positional_weighting": {
+                "past": "Support or generosity shaped your path.",
+                "obstacle": "Unequal exchange or dependency blocks balance.",
+                "present": "You are giving or receiving needed support.",
+                "future": "A generous opportunity or repayment is coming.",
+                "advice": "Give and receive with integrity.",
+                "hopes_fears": "You hope for fairness but fear exploitation."
+            }
+        },
+        {
+            "key": "pentacles-07",
+            "id": 67,
+            "name": "Seven of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Saturn in Taurus",
+            "life_domains": [],
+            "tags": [
+                "patience",
+                "assessment",
+                "growth"
+            ],
+            "description": "Long‑term effort requires patience and evaluation.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Patience",
+                        "Investment",
+                        "Evaluation"
+                    ],
+                    "description": "You assess progress and refine your approach."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Impatience",
+                        "Waste",
+                        "Frustration"
+                    ],
+                    "description": "Effort feels unrewarded or misdirected."
+                }
+            },
+            "positional_weighting": {
+                "past": "You invested time and effort into long‑term goals.",
+                "obstacle": "Impatience or misalignment blocks growth.",
+                "present": "You are evaluating progress and next steps.",
+                "future": "Steady growth will reward your patience.",
+                "advice": "Stay committed; refine your strategy.",
+                "hopes_fears": "You hope for results but fear wasted effort."
+            }
+        },
+        {
+            "key": "pentacles-08",
+            "id": 68,
+            "name": "Eight of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Sun in Virgo",
+            "life_domains": [],
+            "tags": [
+                "skill",
+                "craft",
+                "dedication"
+            ],
+            "description": "Mastery is built through focused effort and repetition.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Skill",
+                        "Work",
+                        "Dedication"
+                    ],
+                    "description": "You refine your craft through steady practice."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Burnout",
+                        "Lack of Focus",
+                        "Poor Quality"
+                    ],
+                    "description": "Effort becomes unfocused or unsustainable."
+                }
+            },
+            "positional_weighting": {
+                "past": "You dedicated yourself to developing a skill.",
+                "obstacle": "Burnout or distraction blocks mastery.",
+                "present": "You are refining your craft or working diligently.",
+                "future": "Your dedication will lead to mastery.",
+                "advice": "Stay focused; quality comes from consistency.",
+                "hopes_fears": "You hope to improve but fear stagnation."
+            }
+        },
+        {
+            "key": "pentacles-09",
+            "id": 69,
+            "name": "Nine of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Venus in Virgo",
+            "life_domains": [],
+            "tags": [
+                "independence",
+                "luxury",
+                "self‑sufficiency"
+            ],
+            "description": "A moment of earned comfort and independence.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Independence",
+                        "Success",
+                        "Comfort"
+                    ],
+                    "description": "You enjoy the rewards of your hard work."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Overindulgence",
+                        "Financial Instability",
+                        "Dependence"
+                    ],
+                    "description": "Comfort becomes shaky or dependent on others."
+                }
+            },
+            "positional_weighting": {
+                "past": "You built independence through steady effort.",
+                "obstacle": "Financial instability or dependence blocks confidence.",
+                "present": "You are stepping into self‑sufficiency.",
+                "future": "A period of comfort and stability is approaching.",
+                "advice": "Enjoy your achievements; maintain balance.",
+                "hopes_fears": "You hope for independence but fear losing it."
+            }
+        },
+        {
+            "key": "pentacles-10",
+            "id": 70,
+            "name": "Ten of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Pip",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Mercury in Virgo",
+            "life_domains": [],
+            "tags": [
+                "legacy",
+                "wealth",
+                "family"
+            ],
+            "description": "Long‑term stability and legacy come into focus.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Legacy",
+                        "Wealth",
+                        "Completion"
+                    ],
+                    "description": "A cycle of material stability reaches fulfillment."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Instability",
+                        "Conflict",
+                        "Loss"
+                    ],
+                    "description": "Family or financial tension disrupts stability."
+                }
+            },
+            "positional_weighting": {
+                "past": "Family, tradition, or long‑term planning shaped your path.",
+                "obstacle": "Instability or conflict blocks long‑term security.",
+                "present": "You are building or evaluating long‑term foundations.",
+                "future": "A stable and prosperous outcome is approaching.",
+                "advice": "Think long‑term; invest in what endures.",
+                "hopes_fears": "You hope for lasting security but fear loss."
+            }
+        },
+        {
+            "key": "pentacles-11",
+            "id": 71,
+            "name": "Page of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Earth Signs",
+            "life_domains": [],
+            "tags": [
+                "study",
+                "opportunity",
+                "focus"
+            ],
+            "description": "A student of the material world seeks new growth.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Study",
+                        "Opportunity",
+                        "Ambition"
+                    ],
+                    "description": "You begin learning or building something new."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Laziness",
+                        "Lack of Progress",
+                        "Distraction"
+                    ],
+                    "description": "Focus wavers or effort becomes inconsistent."
+                }
+            },
+            "positional_weighting": {
+                "past": "You began studying or building a new skill.",
+                "obstacle": "Lack of focus or discipline blocks progress.",
+                "present": "You are learning or developing something practical.",
+                "future": "A new opportunity for growth is coming.",
+                "advice": "Stay focused and committed.",
+                "hopes_fears": "You hope to grow but fear falling behind."
+            }
+        },
+        {
+            "key": "pentacles-12",
+            "id": 72,
+            "name": "Knight of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Virgo",
+            "life_domains": [],
+            "tags": [
+                "routine",
+                "discipline",
+                "reliability"
+            ],
+            "description": "Steady, methodical progress builds lasting results.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Discipline",
+                        "Routine",
+                        "Persistence"
+                    ],
+                    "description": "You move steadily toward your goals."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Stagnation",
+                        "Rigidity",
+                        "Laziness"
+                    ],
+                    "description": "Progress slows due to inflexibility or lack of effort."
+                }
+            },
+            "positional_weighting": {
+                "past": "You relied on discipline and routine to move forward.",
+                "obstacle": "Rigidity or stagnation blocks progress.",
+                "present": "You are building steadily and reliably.",
+                "future": "Slow but meaningful progress is ahead.",
+                "advice": "Stay consistent; avoid extremes.",
+                "hopes_fears": "You hope for steady progress but fear stagnation."
+            }
+        },
+        {
+            "key": "pentacles-13",
+            "id": 73,
+            "name": "Queen of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Capricorn",
+            "life_domains": [],
+            "tags": [
+                "nurturing",
+                "stability",
+                "comfort"
+            ],
+            "description": "Grounded nurturing creates stability and abundance.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Nurturing",
+                        "Practicality",
+                                                "Practicality",
+                        "Comfort"
+                    ],
+                    "description": "You create stability through grounded nurturing and practical care."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Imbalance",
+                        "Neglect",
+                        "Overextension"
+                    ],
+                    "description": "You give too much or neglect your own needs."
+                }
+            },
+            "positional_weighting": {
+                "past": "You nurtured stability through practical effort and care.",
+                "obstacle": "Overextension or imbalance disrupts your grounding.",
+                "present": "You are cultivating stability and comfort.",
+                "future": "A period of grounded abundance is approaching.",
+                "advice": "Nurture yourself as much as you nurture others.",
+                "hopes_fears": "You hope for stability but fear being taken for granted."
+            }
+        },
+        {
+            "key": "pentacles-14",
+            "id": 74,
+            "name": "King of Pentacles",
+            "arcana": "Minor",
+            "card_type": "Court",
+            "suit": "Pentacles",
+            "elemental_weight": "Earth",
+            "astrology": "Taurus",
+            "life_domains": [],
+            "tags": [
+                "prosperity",
+                "leadership",
+                "stability"
+            ],
+            "description": "A master of material stability and long‑term success.",
+            "meanings": {
+                "upright": {
+                    "keywords": [
+                        "Prosperity",
+                        "Discipline",
+                        "Security"
+                    ],
+                    "description": "You lead with steady confidence and build lasting success."
+                },
+                "reversed": {
+                    "keywords": [
+                        "Greed",
+                        "Rigidity",
+                        "Instability"
+                    ],
+                    "description": "Material focus becomes excessive or unstable."
+                }
+            },
+            "positional_weighting": {
+                "past": "You built stability through discipline and long‑term planning.",
+                "obstacle": "Rigidity or over‑focus on material concerns blocks growth.",
+                "present": "You are stepping into a role of grounded leadership.",
+                "future": "A period of material mastery and stability is approaching.",
+                "advice": "Lead with patience and long‑term vision.",
+                "hopes_fears": "You hope for lasting security but fear losing control."
+            }
+        }
+    ]
+}
+

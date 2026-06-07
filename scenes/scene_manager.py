@@ -1,6 +1,7 @@
 # scenes/scene_manager.py
 
 from importlib import import_module
+import traceback
 
 from ursina import * # type: ignore
 
@@ -55,6 +56,18 @@ class SceneManager:
         """
         Destroys old scene and loads new one.
         """
+        # Create the next scene before unloading the current one. If import or
+        # construction fails, keep the current scene visible and remove the fade.
+        module_name, class_name = self.scene_factories[scene_name]
+        try:
+            scene_class = getattr(import_module(module_name), class_name)
+            next_scene = scene_class()
+        except Exception:
+            print(f"[SceneManager] Failed to load scene: {scene_name}")
+            traceback.print_exc()
+            self._fade_in()
+            return
+
         # Unload old scene
         if self.current_scene:
             if hasattr(self.current_scene, "unload"):
@@ -62,10 +75,7 @@ class SceneManager:
             else:
                 destroy(self.current_scene)
 
-        # Create new scene
-        module_name, class_name = self.scene_factories[scene_name]
-        scene_class = getattr(import_module(module_name), class_name)
-        self.current_scene = scene_class()
+        self.current_scene = next_scene
 
         # Fade-in
         self._fade_in()

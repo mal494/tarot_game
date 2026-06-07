@@ -71,10 +71,10 @@ class RitualFX(Entity):
     # ---------------------------------------------------------
 
     def update(self):
-        self._t += time.dt
+        self._t += time.dt # pyright: ignore[reportAttributeAccessIssue]
 
         # Rotate glyph ring
-        self.glyph.rotation_z += time.dt * 8
+        self.glyph.rotation_z += time.dt * 8 # pyright: ignore[reportAttributeAccessIssue]
 
         # Breathing pulse
         pulse = (math.sin(self._t * 2) + 1) * 0.5

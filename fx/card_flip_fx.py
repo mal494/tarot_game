@@ -56,7 +56,7 @@ class CardFlipFX:
 
         # Play sound
         if self.sound_path and Path(self.sound_path).exists():
-            Audio(self.sound_path, autoplay=True, volume=GameState().settings.volume)
+            Audio(self.sound_path, autoplay=True, volume=int(GameState().settings.volume))
 
         # Enable aura during flip
         self.aura.enabled = True
