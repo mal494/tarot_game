@@ -31,6 +31,10 @@ class CardDataLoader:
         "keywords",
         "image_url",      # fallback
         "thumbnail_path",
+        "reversed_keywords",  # v1.5 dataset
+        "element",            # v1.5 dataset
+        "astrology",          # v1.5 dataset
+        "positional_text",    # v1.5 dataset: past/present/future/advice/...
     ]
 
     def __init__(self, json_path: str):
