@@ -8,7 +8,7 @@ interpretation, and save readings to a JSON journal.
 
 - Menu, reading, interpretation, journal, and settings scenes
 - Single-card and three-card tarot spreads
-- Complete 78-card placeholder tarot dataset
+- Complete 78-card tarot dataset generated from Divine Insight Core (see CORE.md)
 - Local placeholder card, glow, sparkle, spotlight, and glyph textures
 - Click-to-reveal card interaction
 - Offline template-based interpretation flow
@@ -23,7 +23,9 @@ python main.py
 
 ## Data
 
-- Tarot cards: `assets/data/tarot_cards.json`
+- Tarot cards: `assets/data/tarot_cards.json`, generated from Divine Insight Core.
+  Do not edit it by hand. The pinned Core release is in `core.version`; see `CORE.md`.
+  Regenerate with `python tools/generate_cards.py`.
 - Runtime journal: `assets/data/journal.json`
 - Placeholder textures: `assets/textures/`
 
