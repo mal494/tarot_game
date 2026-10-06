@@ -1,10 +1,10 @@
 {
   "deck_metadata": {
-    "version": "4.6",
+    "version": "4.6.1",
     "engine_compatibility": "OmniSolve-Core",
     "total_cards": 78,
     "description": "Full expanded dataset with card_type and comprehensive positional weighting for OmniSolve-Core.",
-    "schema_version": "1.6",
+    "schema_version": "1.6.1",
     "changelog_1_3": [
       "positional_weighting split into positional_weights (float, neutral 1.0 defaults) and positional_text (string)",
       "elemental_weight (string) renamed to element; new numeric elemental_weight (1.0 single/doubled element, 0.75 mixed)",
@@ -24,6 +24,9 @@
       "astrology corrected on 20 cards: the 12 Wands, Swords and Pentacles court cards held their element pair (e.g. 'Air/Fire') instead of a sign and are restored from the Divine Insight Dictionary 2.0; the four Aces now list their three signs instead of '<Element> Signs'; the four Cups court cards use Golden Dawn attributions (Page: Water Signs, Knight: Pisces, Queen: Cancer, King: Scorpio)",
       "tags merged with the Divine Insight Dictionary 2.0 tag lists (union, lowercased, de-duplicated, ASCII hyphens); no existing tag removed",
       "added short_description: a one-line summary per card, from the Divine Insight Dictionary 2.0 for 74 cards and newly written for the four Cups court cards"
+    ],
+    "changelog_1_6_1": [
+      "Queen of Wands and King of Wands astrology swapped to Golden Dawn attributions (Queen: Aries, King: Leo), matching the Cups, Swords and Pentacles courts"
     ]
   },
   "taxonomy": {
@@ -2203,7 +2206,7 @@
       "suit": "Wands",
       "element": "Water/Fire",
       "elemental_weight": 0.75,
-      "astrology": "Leo",
+      "astrology": "Aries",
       "tags": [
         "charisma",
         "leadership",
@@ -2262,7 +2265,7 @@
       "suit": "Wands",
       "element": "Fire/Fire",
       "elemental_weight": 1.0,
-      "astrology": "Aries",
+      "astrology": "Leo",
       "tags": [
         "vision",
         "entrepreneur",

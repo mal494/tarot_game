@@ -1996,7 +1996,7 @@
     "suit": "Wands",
     "element": "Water/Fire",
     "elemental_weight": 0.75,
-    "astrology": "Leo",
+    "astrology": "Aries",
     "tags": [
       "charisma",
       "leadership",
@@ -2051,7 +2051,7 @@
     "suit": "Wands",
     "element": "Fire/Fire",
     "elemental_weight": 1.0,
-    "astrology": "Aries",
+    "astrology": "Leo",
     "tags": [
       "vision",
       "entrepreneur",

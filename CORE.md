@@ -7,13 +7,13 @@ No card data is edited by hand in this repo.
 ## Pinned to Core
 
 ```
-core.version = v1.6
+core.version = v1.6.1
 ```
 
 | File | What it is |
 | --- | --- |
 | `core.version` | The pinned Core release |
-| `data/core/tarot_data_v1.6.json` | Vendored copy of Core's `data/tarot_data_v1.6.json` |
+| `data/core/tarot_data_v1.6.1.json` | Vendored copy of Core's `data/tarot_data_v1.6.1.json` |
 | `data/core/art_manifest.json` | Vendored copy of Core's `art/manifest.json` (card slug to artwork file) |
 | `tools/generate_cards.py` | Builds `assets/data/tarot_cards.json` from the two files above |
 | `assets/data/tarot_cards.json` | Generated. Do not edit. |
