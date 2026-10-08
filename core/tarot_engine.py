@@ -1,7 +1,7 @@
 # core/tarot_engine.py
 
 import random
-from dataclasses import dataclass, asdict
+from dataclasses import dataclass, asdict, field
 from typing import List, Dict, Optional, Any
 
 
@@ -19,6 +19,16 @@ class TarotCard:
     keywords: List[str]
     image_path: str           # Path to texture in assets/cards/
     thumbnail_path: Optional[str] = None
+    # Divine Insight Core fields (see CORE.md). Optional so older card files still load.
+    key: Optional[str] = None
+    slug: Optional[str] = None
+    short_description: Optional[str] = None
+    element: Optional[str] = None
+    astrology: Optional[str] = None
+    tags: List[str] = field(default_factory=list)
+    life_domains: List[str] = field(default_factory=list)
+    reversed_keywords: List[str] = field(default_factory=list)
+    positional_text: Dict[str, str] = field(default_factory=dict)
 
 
 @dataclass
@@ -74,12 +84,21 @@ class TarotEngine:
                     id=int(c.get("id", 0)),
                     name=str(c.get("card_name") or c.get("name") or "Unknown"),
                     arcana=str(c.get("arcana_type") or c.get("arcana") or "Major"),
-                    suit=c.get("suit") if c.get("suit") else None,
+                    suit=c.get("suit") if c.get("suit") not in (None, "", "None") else None,
                     upright=str(c.get("upright_meaning") or ""),
                     reversed=str(c.get("reversed_meaning") or ""),
                     keywords=c.get("keywords", []),
                     image_path=str(c.get("image_path") or c.get("image_url") or ""),
                     thumbnail_path=c.get("thumbnail_path"),
+                    key=c.get("key"),
+                    slug=c.get("slug"),
+                    short_description=c.get("short_description"),
+                    element=c.get("element"),
+                    astrology=c.get("astrology"),
+                    tags=list(c.get("tags") or []),
+                    life_domains=list(c.get("life_domains") or []),
+                    reversed_keywords=list(c.get("reversed_keywords") or []),
+                    positional_text=dict(c.get("positional_text") or {}),
                 )
             )
         return deck
